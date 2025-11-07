@@ -1,7 +1,9 @@
 name: Generate Notice Markdown
 
 on:
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
+  schedule:
+    - cron: 52 * * * *
 
 jobs:
   generate-markdown:
@@ -13,94 +15,70 @@ jobs:
       with:
         token: ${{ secrets.TOKEN }}
       
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        node-version: '18'
-        
-    - name: Fetch notice data
-      id: fetch-data
+        python-version: '3.9'
+    
+    - name: Install dependencies
       run: |
-        # 获取网页内容
-        response=$(curl -s "https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001")
-        
-        # 提取JSON数据（移除return和末尾的括号）
-        json_data=$(echo "$response" | sed 's/^return //' | sed 's/}}}}}$/}}}/')
-        
-        # 将数据保存到文件供后续步骤使用
-        echo "$json_data" > notice_data.json
-        echo "JSON data saved to notice_data.json"
-        
-    - name: Process and generate markdown files
-      id: process-md
+        python -m pip install --upgrade pip
+        pip install requests py-lua-parser
+    
+    - name: Fetch and process notices
       run: |
-        # 安装必要的Node.js依赖
-        npm install -g @actions/core
+        python << 'EOF'
+        import requests
+        import re
+        import os
+        from lua_parser import parse
+    
+        url = "https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
+        response = requests.get(url)
+        lua_content = response.text
+    
+        lua_data = parse(lua_content)
+    
+        for unique_id, notice_data in lua_data.items():
+          filename = f"{unique_id}.md"
+          title = notice_data.get("Title", "")
+          end_timestamp = notice_data.get("EndTimestamp", 0)
+          content = notice_data.get("Content", {})
         
-        # 创建处理脚本
-        cat > process_notice.js << 'EOF'
-        const fs = require('fs');
+          md_content = f"# {title}\\n\\n"
         
-        try {
-          const data = fs.readFileSync('notice_data.json', 'utf8');
-          
-          // 解析JSON数据
-          const noticeData = JSON.parse(data);
-          
-          // 遍历所有通知项
-          for (const key in noticeData) {
-            if (noticeData.hasOwnProperty(key)) {
-              const item = noticeData[key];
-              const uniqueId = item.UniqueId;
-              const title = item.Title;
-              const content = item.Content[1];
-              
-              let markdownContent = '';
-              
-              // 检查内容格式类型
-              if (content.body) {
-                // 第二种格式：有body字段
-                let body = content.body || '';
-                // 文本处理：将\n替换为<br/>，再删除\
-                body = body.replace(/\\n/g, '<br/>');
-                body = body.replace(/\\/g, '');
+          if content:
+            first_item = list(content.values())[0] if isinstance(content, dict) else content[0]
+            
+            if "noticeImage" in first_item:
+              notice_image = first_item["noticeImage"]
+              notice_image_url = first_item.get("noticeImageURL", "")
                 
-                markdownContent = `# ${title}\\n${body}`;
-              } else if (content.noticeImage && content.noticeImageURL) {
-                // 第一种格式：有图片和URL
-                // 提取upload/后面的字符
-                const imagePathMatch = content.noticeImage.match(/upload\/(.+)/);
-                const imagePath = imagePathMatch ? imagePathMatch[1] : 'image';
+              image_desc_match = re.search(r'upload/([^.]*)', notice_image)
+              image_desc = image_desc_match.group(1) if image_desc_match else "公告图片"
                 
-                // 文本处理：将\n替换为<br/>，再删除\
-                let processedTitle = content.title || title;
-                processedTitle = processedTitle.replace(/\\n/g, '<br/>');
-                processedTitle = processedTitle.replace(/\\/g, '');
-                
-                markdownContent = `# ${processedTitle}\\n[![${imagePath}](${content.noticeImage})](${content.noticeImageURL})`;
-              } else {
-                // 默认情况
-                let processedTitle = title;
-                processedTitle = processedTitle.replace(/\\n/g, '<br/>');
-                processedTitle = processedTitle.replace(/\\/g, '');
-                
-                markdownContent = `# ${processedTitle}\\nNo content available`;
-              }
-              
-              // 写入Markdown文件
-              const filename = `${uniqueId}.md`;
-              fs.writeFileSync(filename, markdownContent);
-              console.log(`Generated: ${filename}`);
-            }
-          }
-        } catch (error) {
-          console.error('Error processing notice data:', error);
-          process.exit(1);
-        }
+              md_content += f"[![{image_desc}]({notice_image})]({notice_image_url})"
+            
+            elif "body" in first_item:
+              body_content = first_item["body"]
+              body_content = body_content.replace("\\n", "<br/>").replace("\\", "")
+              md_content += body_content
+        
+          with open(filename, 'w', encoding='utf-8') as f:
+            f.write(md_content)
+    
+        readme_content = "# 公告列表\\n\\n| UniqueId | Title | EndTimestamp |\\n|----------|-------|-------------|\\n"
+    
+        for unique_id, notice_data in lua_data.items():
+          title = notice_data.get("Title", "")
+          end_timestamp = notice_data.get("EndTimestamp", 0)
+          readme_content += f"| {unique_id} | {title} | {end_timestamp} |\\n"
+    
+        with open("readme.md", 'w', encoding='utf-8') as f:
+          f.write(readme_content)
+    
+        print("处理完成！")
         EOF
-        
-        # 运行处理脚本
-        node process_notice.js
         
     - name: Commit generated files
       id: commit-files
