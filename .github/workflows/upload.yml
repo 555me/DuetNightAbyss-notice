@@ -1,0 +1,124 @@
+name: Generate Notice Markdown
+
+on:
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.TOKEN }}
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Fetch notice data
+      id: fetch-data
+      run: |
+        # 获取网页内容
+        response=$(curl -s "https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001")
+        
+        # 提取JSON数据（移除return和末尾的括号）
+        json_data=$(echo "$response" | sed 's/^return //' | sed 's/}}}}}$/}}}/')
+        
+        # 将数据保存到文件供后续步骤使用
+        echo "$json_data" > notice_data.json
+        echo "JSON data saved to notice_data.json"
+        
+    - name: Process and generate markdown files
+      id: process-md
+      run: |
+        # 安装必要的Node.js依赖
+        npm install -g @actions/core
+        
+        # 创建处理脚本
+        cat > process_notice.js << 'EOF'
+        const fs = require('fs');
+        
+        try {
+          const data = fs.readFileSync('notice_data.json', 'utf8');
+          
+          // 解析JSON数据
+          const noticeData = JSON.parse(data);
+          
+          // 遍历所有通知项
+          for (const key in noticeData) {
+            if (noticeData.hasOwnProperty(key)) {
+              const item = noticeData[key];
+              const uniqueId = item.UniqueId;
+              const title = item.Title;
+              const content = item.Content[1];
+              
+              let markdownContent = '';
+              
+              // 检查内容格式类型
+              if (content.body) {
+                // 第二种格式：有body字段
+                let body = content.body || '';
+                // 文本处理：将\n替换为<br/>，再删除\
+                body = body.replace(/\\n/g, '<br/>');
+                body = body.replace(/\\/g, '');
+                
+                markdownContent = `# ${title}\\n${body}`;
+              } else if (content.noticeImage && content.noticeImageURL) {
+                // 第一种格式：有图片和URL
+                // 提取upload/后面的字符
+                const imagePathMatch = content.noticeImage.match(/upload\/(.+)/);
+                const imagePath = imagePathMatch ? imagePathMatch[1] : 'image';
+                
+                // 文本处理：将\n替换为<br/>，再删除\
+                let processedTitle = content.title || title;
+                processedTitle = processedTitle.replace(/\\n/g, '<br/>');
+                processedTitle = processedTitle.replace(/\\/g, '');
+                
+                markdownContent = `# ${processedTitle}\\n[![${imagePath}](${content.noticeImage})](${content.noticeImageURL})`;
+              } else {
+                // 默认情况
+                let processedTitle = title;
+                processedTitle = processedTitle.replace(/\\n/g, '<br/>');
+                processedTitle = processedTitle.replace(/\\/g, '');
+                
+                markdownContent = `# ${processedTitle}\\nNo content available`;
+              }
+              
+              // 写入Markdown文件
+              const filename = `${uniqueId}.md`;
+              fs.writeFileSync(filename, markdownContent);
+              console.log(`Generated: ${filename}`);
+            }
+          }
+        } catch (error) {
+          console.error('Error processing notice data:', error);
+          process.exit(1);
+        }
+        EOF
+        
+        # 运行处理脚本
+        node process_notice.js
+        
+    - name: Commit generated files
+      id: commit-files
+      run: |
+        # 检查是否有新文件生成
+        if git diff --name-only --exit-code; then
+          echo "No changes to commit"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          
+          git config --local user.email "666you@github.com"
+          git config --local user.name "666you"
+          git add *.md
+          git commit -m "Auto-generate notice markdown files [skip ci]"
+        fi
+        
+    - name: Push changes
+      if: steps.commit-files.outputs.has_changes == 'true'
+      run: |
+        git push
