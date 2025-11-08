@@ -1,0 +1,37 @@
+name: w6
+on:
+  schedule:
+  - cron: 1,35 * * * *
+  workflow_dispatch:
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    permissions: write-all  
+
+    steps:
+    - name: zp
+      uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.TOKEN }}
+
+    - name: Dm
+      run: |
+        Kb="https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
+        curl -sI $Kb | grep -i 'Last-Modified:' | cut -d' ' -f2- >> README.md
+
+    - name: 6k
+      if: success()
+      run: |
+        git config --global user.name "222"
+        git config --global user.email "cmude@github.com"
+        if ! git diff --quiet README.md; then
+          git add README.md
+          git commit -m "13"
+          git push origin main
+          echo "update successful!"
+          exit 0
+        else
+          echo "No changes detected."
+          exit 0
+        fi

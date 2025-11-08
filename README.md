@@ -1,1 +1,3 @@
-# DuetNightAbyss-notice
+二重螺旋公告MD版
+
+公告更新时间：
