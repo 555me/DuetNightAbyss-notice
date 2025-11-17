@@ -21,6 +21,7 @@ jobs:
         echo "公告更新时间：" >> README.md
         Kb="https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
         curl -sI $Kb | grep -i 'Last-Modified:' | cut -d' ' -f2- >> README.md
+        curl $Kb > data/notice
 
     - name: 6k
       if: success()
@@ -28,7 +29,7 @@ jobs:
         git config --global user.name "222"
         git config --global user.email "cmude@github.com"
         if ! git diff --quiet README.md; then
-          git add README.md
+          git add -A .
           git commit -m "13"
           git push origin main
           echo "update successful!"
