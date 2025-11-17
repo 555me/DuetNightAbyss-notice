@@ -21,7 +21,7 @@ jobs:
         echo "公告更新时间：" >> README.md
         Kb="https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
         curl -sI $Kb | grep -i 'Last-Modified:' | cut -d' ' -f2- >> README.md
-        curl $Kb > data/notice
+        curl $Kb > data/notice.lua
 
     - name: 6k
       if: success()
