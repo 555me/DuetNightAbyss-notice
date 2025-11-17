@@ -27,28 +27,6 @@ return {
             },
         },
     },
-    ["691a7ff1890e207f8e4e72d7"] = {
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "2",
-            ["notice_sort"] = 99990,
-            ["noticeType"] = "1,2",
-        },
-        ["StartTimestamp"] = 1763344358,
-        ["Title"] = "关于商店刷新时间异常的问题说明公告",
-        ["UniqueId"] = "691a7ff1890e207f8e4e72d7",
-        ["Channels"] = {
-        },
-        ["EndTimestamp"] = 1763949160,
-        ["Content"] = {
-            [1] = {
-                ["title"] = "关于商店刷新时间异常的问题说明公告",
-                ["body"] = "<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">亲爱的狩月人：</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"8\">目前我们关注到游戏内部分商店出现刷新异常问题。目前，项目组正在紧急排查该问题，还请各位狩月人耐心等待，本次异常给各位狩月人带来的不便，非常抱歉，感谢大家的支持与配合。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"12\">《二重螺旋》运营组</span></div>",
-                ["language"] = "CN",
-                ["title1"] = "关于商店刷新时间异常的问题说明公告",
-            },
-        },
-    },
     ["690329a229cfb720c3ce2d43"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
@@ -71,7 +49,7 @@ return {
             },
         },
     },
-    ["Version"] = 341,
+    ["Version"] = 342,
     ["68ff200b29334956bbd297f2"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
