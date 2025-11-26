@@ -49,29 +49,7 @@ return {
             },
         },
     },
-    ["Version"] = 393,
-    ["692677f0db076752445eb821"] = {
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "2",
-            ["notice_sort"] = 5000,
-            ["noticeType"] = "1,2",
-        },
-        ["StartTimestamp"] = 1764131400,
-        ["Title"] = "脚本问题处理说明",
-        ["UniqueId"] = "692677f0db076752445eb821",
-        ["Channels"] = {
-        },
-        ["EndTimestamp"] = 2077501536,
-        ["Content"] = {
-            [1] = {
-                ["title"] = "脚本问题处理说明",
-                ["body"] = "<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/重要通知.png\" alt=\"\"></div>\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\">\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">亲爱的狩月人：</span> <span class=\"text-only\" data-eleid=\"8\">结合近期社区反馈与各位狩月人举报提供的线索，我们在经过了全面数据核查后确认：部分账号存在违规使用第三方插件（含自动挂机脚本工具）的行为。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"8\">此类第三方插件代替玩家进行自动操作，严重破坏了当前游戏的公平环境，使部分玩家获取了更多收益。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"11\">针对使用自动化脚本的行为，运营团队始终秉持&ldquo;零容忍&rdquo;原则，对于检测到使用自动化脚本的账号，一经系统检测核实，将对违规账号进行封禁处罚，对于脚本的的惩罚力度将等同于外挂及其他第三方工具。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"14\">《二重螺旋》将持续优化升级针对脚本及类似违规插件的检测机制，积极维护全体狩月人的游戏体验和公平环境。同时再次郑重提醒：请各位狩月人切勿轻信&ldquo;代练&rdquo;&ldquo;代肝&rdquo;&ldquo;共享账号&rdquo; 等违规宣传，避免造成账号相关的财产损失。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"17\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"20\">《二重螺旋》运营团队</span></div>\n</div>\n</div>",
-                ["language"] = "CN",
-                ["title1"] = "脚本问题处理说明",
-            },
-        },
-    },
+    ["Version"] = 397,
     ["69251240db076752445eb2e6"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
@@ -91,6 +69,28 @@ return {
                 ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/06-限时活动 -【夜莺来信】累计签到领取「华彩沙漏」.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"ZSZ3dmhLKo1st1xH1tlcSvR6n5g\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LuxTdD6nGoB1j8xUylfcnFsTn9h\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-XFXodWT65oBgfrx8YZ0cP9NQnEc\">2025年11月25日10:00 ~ 2025年12月22日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-M6i8d1oBPowvmExjw0icJ9Eknvg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-FyY1ds23aofqnwxx5ezc0f7unkf\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-XDQbdleDDoFCi8x7Z6bcTdhFndh\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"ace-line ace-line old-record-id-Dre7d86IBovb90xczR6c7L6Mn6f\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-KtB1dALdQoqh3Dx1wfJcy0Dinwh\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-US0gdJz1boTjA8x2KQycyi8Vnkf\">「华彩沙漏」*10</div>\n<div class=\"ace-line ace-line old-record-id-Bm1HdaEnToKDVYxIxu7c10U1nhc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-TPXJdOZqMo5llaxuyrscBXfrnZc\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Tz7Cd5Mt3o5GpdxtirzccQXQnMg\">&bull; 活动开启期间，狩月人累计登录七天即可解锁全部奖励。</div>\n<div class=\"ace-line ace-line old-record-id-Z4ipdIGJloPg7yx9mGwc0wt0nqY\">&bull; 每日登录游戏，即可在活动界面领取当日奖励内容。</div>\n<div class=\"ace-line ace-line old-record-id-ScffdP4RCoz0Z0xOdPDcEuSNnth\">&bull; 当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。</div>\n</div>",
                 ["language"] = "CN",
                 ["title1"] = "【夜莺来信】累计签到领取「华彩沙漏」*10",
+            },
+        },
+    },
+    ["69268aa3db076752445eb82a"] = {
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 65,
+            ["noticeType"] = "1,2",
+        },
+        ["StartTimestamp"] = 1764133521,
+        ["Title"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
+        ["UniqueId"] = "69268aa3db076752445eb82a",
+        ["Channels"] = {
+        },
+        ["EndTimestamp"] = 1766394000,
+        ["Content"] = {
+            [1] = {
+                ["title"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/01-限时活动 -【夜莺飞往彩色的梦】菲娜角色剧情活动说明.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"RRnid6b4noYohexNXcncQmn1nWt\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-AkL4dIrnQo9hP9xTp26cUjsfnUf\"><span style=\"color: rgb(153, 153, 153);\">当一只小夜莺飞出巢穴，它会见到广阔的天空，掠过柔软的草地，却也注定会迎上冰冷的雨和狂暴的风。</span></div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\"><span style=\"color: rgb(153, 153, 153);\">但少女已决心不再退却，她将用魔法的画笔描绘彩色的梦，在这依然残酷的现实世界里，寻得一片永远如童话般温暖明亮的晴天。</span></div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\">\n<div data-page-id=\"RRnid6b4noYohexNXcncQmn1nWt\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LJgwdw4OpoJ1dTx40DccsRrxnxh\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Tc3Udf8UqoeYKexKAsjcqlDsnlk\">2025年11月25日10:00 ~ 2025年12月22日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-YKvndBH8EohoqMxwV48ck58SnoZ\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Xwk9da599oeYG4xMGFdcD7s7nqe\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Suk6dFQCboCNSoxxzugcpedMnzg\">完成夜航篇第一章剧情【乘着轻柔的风】并开启【活动】功能。</div>\n<div class=\"ace-line ace-line old-record-id-AxLMdJNlvo9YUMxTX57c68hKnhd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-VufOdB6zTomnPAxtKc5cn1Rinbf\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-M3QsdqK3HoY8eOxRpq4c4iE9nIf\">「委托密函线索」、「深红凝珠」、「铜币」</div>\n<div class=\"ace-line ace-line old-record-id-WbRid2l7loMox6xUyuncgUgEneh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-KNcudDz44o57Snxr0XMcVsCmnmd\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-BW9ed0XSmolO9uxZXeLcz2ZNnGg\">活动开启后，会随时间进度逐渐开启4个不同副本。</div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-OHHQdH8w3oRXQgxlhuucGYA5nrg\" data-list=\"bullet\">\n<div>【告别旧日的洞窟】开启时间：2025年11月25日10:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-SpT8djK7WoOK1yxZah1cB7zsnSd\" data-list=\"bullet\">\n<div>【穿行记忆的迷宫】开启时间：2025年11月26日10:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-OC3kdH51joXywlx5HkKcMgRHn5c\" data-list=\"bullet\">\n<div>【渡越荆棘的河谷】开启时间：2025年11月27日10:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-NL8gd4AMHoIMoSxQR7ecG4HPnnV\" data-list=\"bullet\">\n<div>【踏上芬芳的原野】开启时间：2025年11月28日10:00（UTC+8）</div>\n</li>\n</ul>\n<div class=\"ace-line ace-line old-record-id-X6badtaQVoD1cUxlIsmccIq0nMb\">在副本中使用染料，为世界上色，完成故事。</div>\n<div class=\"ace-line ace-line old-record-id-G92rdf9UTofhN3xxpZmcYx3Qn9i\">活动期间在副本内收集「白鸟之羽」，领取限时活动奖励。</div>\n<div class=\"ace-line ace-line old-record-id-PWZwdYY7ooFErgxXWnFccxJWnMe\">活动结束后副本转为常驻副本，但无法通过收集「白鸟之羽」获取限时的活动奖励。</div>\n</div>\n</div>\n</div>",
+                ["language"] = "CN",
+                ["title1"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
             },
         },
     },
@@ -363,6 +363,28 @@ return {
             },
         },
     },
+    ["692689dadb076752445eb828"] = {
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "2",
+            ["notice_sort"] = 5000,
+            ["noticeType"] = "1,2",
+        },
+        ["StartTimestamp"] = 1764133324,
+        ["Title"] = "脚本问题处理说明",
+        ["UniqueId"] = "692689dadb076752445eb828",
+        ["Channels"] = {
+        },
+        ["EndTimestamp"] = 2045970130,
+        ["Content"] = {
+            [1] = {
+                ["title"] = "脚本问题处理说明",
+                ["body"] = "<div data-page-id=\"D2fQdK8Gro3mvUxVHfDchw7onjf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/重要通知.png\" alt=\"\"></div>\n<div class=\"ace-line ace-line old-record-id-IWU0deQcsoduqGxEzGUc2er6nBe\">\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">亲爱的狩月人：</span> <span class=\"text-only\" data-eleid=\"8\">结合近期社区反馈与各位狩月人举报提供的线索，我们在经过了全面数据核查后确认：部分账号存在违规使用第三方插件（含自动挂机脚本工具）的行为。</span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"8\">此类第三方插件代替玩家进行自动操作，严重破坏了当前游戏的公平环境，使部分玩家获取了更多收益。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"11\">针对使用自动化脚本的行为，运营团队始终秉持&ldquo;零容忍&rdquo;原则，对于检测到使用自动化脚本的账号，一经系统检测核实，将对违规账号进行封禁处罚，对于脚本的惩罚力度将等同于外挂及其他第三方工具。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"14\">《二重螺旋》将持续优化升级针对脚本及类似违规插件的检测机制，积极维护全体狩月人的游戏体验和公平环境。同时再次郑重提醒：请各位狩月人切勿轻信&ldquo;代练&rdquo;&ldquo;代肝&rdquo;&ldquo;共享账号&rdquo; 等违规宣传，避免造成账号相关的财产损失。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"17\">感谢每一位狩月人的理解与支持，让我们携手努力，共同营造一个公平、和谐的游戏环境。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"20\">《二重螺旋》运营团队</span></div>\n</div>\n</div>",
+                ["language"] = "CN",
+                ["title1"] = "脚本问题处理说明",
+            },
+        },
+    },
     ["69251250db076752445eb2e7"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
@@ -404,28 +426,6 @@ return {
                 ["language"] = "CN",
                 ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/20251023-企业微信.jpg",
                 ["title"] = "欢迎添加皎皎小助手",
-            },
-        },
-    },
-    ["69251964db076752445eb2f5"] = {
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 65,
-            ["noticeType"] = "1,2",
-        },
-        ["StartTimestamp"] = 1764039001,
-        ["Title"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
-        ["UniqueId"] = "69251964db076752445eb2f5",
-        ["Channels"] = {
-        },
-        ["EndTimestamp"] = 1766394004,
-        ["Content"] = {
-            [1] = {
-                ["title"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/01-限时活动 -【夜莺飞往彩色的梦】菲娜角色剧情活动说明.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"RRnid6b4noYohexNXcncQmn1nWt\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-AkL4dIrnQo9hP9xTp26cUjsfnUf\"><span style=\"color: rgb(153, 153, 153);\">当一只小夜莺飞出巢穴，它会见到广阔的天空，掠过柔软的草地，却也注定会迎上冰冷的雨和狂暴的风。</span></div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\"><span style=\"color: rgb(153, 153, 153);\">但少女已决心不再退却，她将用魔法的画笔描绘彩色的梦，在这依然残酷的现实世界里，寻得一片永远如童话般温暖明亮的晴天。</span></div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-FlfddEQU6oHrQJxkfEHc91U0nSg\">\n<div data-page-id=\"RRnid6b4noYohexNXcncQmn1nWt\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LJgwdw4OpoJ1dTx40DccsRrxnxh\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Tc3Udf8UqoeYKexKAsjcqlDsnlk\">2025年11月25日10:00 ~ 2025年12月22日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-YKvndBH8EohoqMxwV48ck58SnoZ\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Xwk9da599oeYG4xMGFdcD7s7nqe\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Suk6dFQCboCNSoxxzugcpedMnzg\">完成夜航篇第一章剧情【乘着轻柔的风】并开启【活动】功能。</div>\n<div class=\"ace-line ace-line old-record-id-AxLMdJNlvo9YUMxTX57c68hKnhd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-VufOdB6zTomnPAxtKc5cn1Rinbf\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-M3QsdqK3HoY8eOxRpq4c4iE9nIf\">「委托密函线索」、「深红凝珠」、「铜币」</div>\n<div class=\"ace-line ace-line old-record-id-WbRid2l7loMox6xUyuncgUgEneh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-KNcudDz44o57Snxr0XMcVsCmnmd\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-BW9ed0XSmolO9uxZXeLcz2ZNnGg\">活动开启后，会随时间进度逐渐开启4个不同副本。</div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-OHHQdH8w3oRXQgxlhuucGYA5nrg\" data-list=\"bullet\">\n<div>【告别旧日的洞窟】开启时间：2025年11月25日10:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-SpT8djK7WoOK1yxZah1cB7zsnSd\" data-list=\"bullet\">\n<div>【穿行记忆的迷宫】开启时间：2025年11月26日05:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-OC3kdH51joXywlx5HkKcMgRHn5c\" data-list=\"bullet\">\n<div>【渡越荆棘的河谷】开启时间：2025年11月27日05:00（UTC+8）</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-NL8gd4AMHoIMoSxQR7ecG4HPnnV\" data-list=\"bullet\">\n<div>【踏上芬芳的原野】开启时间：2025年11月28日05:00（UTC+8）</div>\n</li>\n</ul>\n<div class=\"ace-line ace-line old-record-id-X6badtaQVoD1cUxlIsmccIq0nMb\">在副本中使用染料，为世界上色，完成故事。</div>\n<div class=\"ace-line ace-line old-record-id-G92rdf9UTofhN3xxpZmcYx3Qn9i\">活动期间在副本内收集「白鸟之羽」，领取限时活动奖励。</div>\n<div class=\"ace-line ace-line old-record-id-PWZwdYY7ooFErgxXWnFccxJWnMe\">活动结束后副本转为常驻副本，但无法通过收集「白鸟之羽」获取限时的活动奖励。</div>\n</div>\n</div>\n</div>",
-                ["language"] = "CN",
-                ["title1"] = "【夜莺飞往彩色的梦】菲娜角色剧情活动说明",
             },
         },
     },
