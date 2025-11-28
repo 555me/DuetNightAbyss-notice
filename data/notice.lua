@@ -71,7 +71,29 @@ return {
             },
         },
     },
-    ["Version"] = 403,
+    ["692977ccdb076752445edd5d"] = {
+        ["ClientOnly"] = {
+            ["UIStyle"] = "0",
+            ["TypeTag"] = "3",
+            ["notice_sort"] = 95,
+            ["noticeType"] = "1,2",
+        },
+        ["Title"] = "周边上新：公测纪念礼盒预售开启！",
+        ["StartTimestamp"] = 1764320400,
+        ["Channels"] = "",
+        ["UniqueId"] = "692977ccdb076752445edd5d",
+        ["img_channel_id"] = "",
+        ["EndTimestamp"] = 1765987200,
+        ["Content"] = {
+            [1] = {
+                ["noticeImageURL"] = "https://erchongluoxuan.tmall.com/",
+                ["title"] = "周边上新：公测版本商品上新",
+                ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/公测版本商品上新.jpg",
+                ["language"] = "CN",
+            },
+        },
+    },
+    ["Version"] = 404,
     ["692832c8db076752445eb922"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
