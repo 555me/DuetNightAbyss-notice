@@ -71,7 +71,7 @@ return {
             },
         },
     },
-    ["Version"] = 411,
+    ["Version"] = 416,
     ["69251240db076752445eb2e6"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
@@ -94,25 +94,25 @@ return {
             },
         },
     },
-    ["69259129db076752445eb702"] = {
+    ["69303323553e513962f09c61"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
             ["TypeTag"] = "2",
-            ["notice_sort"] = 90000,
+            ["notice_sort"] = 5000,
             ["noticeType"] = "1,2",
         },
-        ["StartTimestamp"] = 1764069660,
-        ["Title"] = "关于《夜莺飞往彩色的梦》活动奖励领取异常",
-        ["UniqueId"] = "69259129db076752445eb702",
+        ["StartTimestamp"] = 1764766489,
+        ["Title"] = "违规行为处罚公告",
+        ["UniqueId"] = "69303323553e513962f09c61",
         ["Channels"] = {
         },
-        ["EndTimestamp"] = 1764691199,
+        ["EndTimestamp"] = 1765976094,
         ["Content"] = {
             [1] = {
-                ["title"] = "关于《夜莺飞往彩色的梦》活动奖励领取异常的问题说明",
-                ["body"] = "<div data-lark-html-role=\"root\">\n<div class=\"rich-text-paragraph\" data-eleid=\"2\">\n<div data-page-id=\"CYLLdSdivoBTY9x4YBbcYUUznlg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-P9MLdybj5oTnzlxIoLFcQCxonJd\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-GUy0daeiBoG8YbxIMrxclJYJnPd\">经核查，在《夜莺飞往彩色的梦》活动中出现了活动限时奖励可重复领取的情况，以下是具体情况说明：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-YwnUdI4sgoMVNLxakqGc4Fx0nEg\" data-list=\"number\">\n<div>为了确保受影响的账号数量不再增加，我们已于2025年11月25日中午13:40（UTC+8）通过在线更新的方式紧急暂时关闭了该活动游戏内的奖励领取，更新后所有用户均不可领取任务奖励；</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-EhsbdhGASoS6KtxSH6NcNuwunLh\" data-list=\"number\">\n<div>于2025年11月25日19:00（UTC+8）通过在线更新的方式修复了该问题，修复后，对于所有有过异常领取状态的账号，当前已进行多次领奖的任务奖励状态将统一修改为&ldquo;已领取&rdquo;，对于未异常的账号和异常账号中未多次领奖的任务奖励，修复后可正常领取奖励；</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-BxpSdsEJkolvSAxrSX1cUwKyn0g\" data-list=\"number\">\n<div>目前已拉取11月25日10:45~19:00（UTC+8）期间内的数据，并筛查出了异常账号，共927个，最多一个账号额外领取了117次委托密函线索奖励，后续对所有异常账号所获取的额外奖励进行扣除，该扣除预计在本周内完成，扣除后将在后续公告中说明；</div>\n</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-E43oduda3oPFJmxugn4cgHGInJY\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-F5QHdxrtdoAxILxflQxcXHhLnfh\">由于该问题给各位狩月人带来的不便，非常抱歉，感谢大家的支持与配合，稍后会发放全服补偿，</div>\n<div class=\"ace-line ace-line old-record-id-AIZ4d3ZcqomlHVx4VVBcKmV6nid\">补偿内容：委托手册&middot;二*5</div>\n<div class=\"ace-line ace-line old-record-id-OWYJdsRodob6q2xOzoYcspJOnHb\">* 领取条件：解锁【邮件】功能，邮件领取有效时间至2025年12月02日23:59（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-JLDtdj0Kxo4zbFx79Gic7GiHn98\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Qd2td5zIhowcgaxRolOcZgPDn5f\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-YkaTdfOD5oJJpKxjPr1c6JKLnuR\">《二重螺旋》运营团队</div>\n</div>\n</div>\n</div>",
+                ["title"] = "违规行为处罚公告",
+                ["body"] = "<div data-page-id=\"LBOfdOdDAo9Udcx807ocXgtInYd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DxiAdIUm1o4GYXxP8GOc1YlOnYm\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/20251031封禁公告-468X192-LH.png\" alt=\"\" width=\"468\" height=\"192\"></div>\n<div class=\"ace-line ace-line old-record-id-DxiAdIUm1o4GYXxP8GOc1YlOnYm\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-Plwed4fHBoW3oTxwb3Gc3XAunRd\">感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们严禁使用外挂、第三方工具以及任何不正当方式破坏游戏公平性的行为，对此类行为一经发现将进行最严厉的处罚。</div>\n<div class=\"ace-line ace-line old-record-id-WKqrdC4Qvo8CPFxKtpwc9xORnib\">经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">我们将对违规账号进行封停处理，以下为历史封禁用户账号名单。</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">\n<ul>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14471&amp;type=2523\">2025年11月2日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14474&amp;type=2523\">2025年11月6日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14473&amp;type=2523\">2025年11月7日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14479&amp;type=2522\">2025年11月10日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14480&amp;type=2522\">2025年11月12日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14484&amp;type=2522\">2025年11月14日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14485&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月15日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14489&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月16日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14490&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月17日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14510&amp;type=2522\">2025年11月22日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14509&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月27日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14513&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月28日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14514&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月29日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14520&amp;type=2522\">2025年12月02日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14523&amp;type=2522\">2025年12月03日第一批违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14522&amp;type=2522\">2025年12月03日第二批违规行为处罚公告</a></li>\n</ul>\n</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">\n<div data-page-id=\"LBOfdOdDAo9Udcx807ocXgtInYd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JKD9dPHuhowwYYxhFLDcH2bZnic\">良好的游戏环境需要各位狩月人的共同努力。请大家相互监督，如发现任何违禁行为，欢迎通过游戏内客服进行举报。</div>\n<div class=\"ace-line ace-line old-record-id-NHgQdnp1zokuShx0yVocwOEHnpb\">客服联系方式：<a href=\"https://kf.yingxiong.com/kf2.0/user-center?game_id=2277&amp;lang=zh\" data-lark-is-custom=\"true\">联系客服</a></div>\n<div class=\"ace-line ace-line old-record-id-Pu1kd2W47oEaoTxW5srcsnC2nzR\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-BLaZdDtGNon1dex1ESwcieKgnOd\"><strong>《二重螺旋》运营团队</strong></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">&nbsp;</div>\n</div>",
                 ["language"] = "CN",
-                ["title1"] = "关于《夜莺飞往彩色的梦》活动奖励领取异常的问题说明",
+                ["title1"] = "违规行为处罚公告",
             },
         },
     },
@@ -470,28 +470,6 @@ return {
                 ["title"] = "云游戏现已开启！登陆即领12小时免费畅玩。",
                 ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/01-限时任务- 云游戏.jpg",
                 ["language"] = "CN",
-            },
-        },
-    },
-    ["692ecdcbdb076752445ee19f"] = {
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "2",
-            ["notice_sort"] = 5000,
-            ["noticeType"] = "1,2",
-        },
-        ["StartTimestamp"] = 1764674959,
-        ["Title"] = "违规行为处罚公告",
-        ["UniqueId"] = "692ecdcbdb076752445ee19f",
-        ["Channels"] = {
-        },
-        ["EndTimestamp"] = 1766489414,
-        ["Content"] = {
-            [1] = {
-                ["title"] = "违规行为处罚公告",
-                ["body"] = "<div data-page-id=\"LBOfdOdDAo9Udcx807ocXgtInYd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-DxiAdIUm1o4GYXxP8GOc1YlOnYm\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/20251031封禁公告-468X192-LH.png\" alt=\"\" width=\"468\" height=\"192\"></div>\n<div class=\"ace-line ace-line old-record-id-DxiAdIUm1o4GYXxP8GOc1YlOnYm\">亲爱的狩月人：</div>\n<div class=\"ace-line ace-line old-record-id-Plwed4fHBoW3oTxwb3Gc3XAunRd\">感谢您对《二重螺旋》的支持与热爱，《二重螺旋》运营团队始终坚持保证公平的游戏秩序，维护绿色的游戏环境。我们严禁使用外挂、第三方工具以及任何不正当方式破坏游戏公平性的行为，对此类行为一经发现将进行最严厉的处罚。</div>\n<div class=\"ace-line ace-line old-record-id-WKqrdC4Qvo8CPFxKtpwc9xORnib\">经例行数据核查发现，部分狩月人使用了外挂与第三方工具作弊，严重破坏了《二重螺旋》游戏环境的健康公平。</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">我们将对违规账号进行封停处理，以下为历史封禁用户账号名单。</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">\n<ul>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14471&amp;type=2523\">2025年11月2日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14474&amp;type=2523\">2025年11月6日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14473&amp;type=2523\">2025年11月7日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14479&amp;type=2522\">2025年11月10日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14480&amp;type=2522\">2025年11月12日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14484&amp;type=2522\">2025年11月14日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14485&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月15日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14489&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月16日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14490&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月17日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14510&amp;type=2522\">2025年11月22日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14509&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月27日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14513&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月28日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/#/news/list?id=14514&amp;type=2522\" target=\"_blank\" rel=\"noopener\">2025年11月29日违规行为处罚公告</a></li>\n<li><a href=\"https://dna.yingxiong.com/index.html#/news/list?id=14520&amp;type=2522\">2025年12月02日违规行为处罚公告</a></li>\n</ul>\n</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">\n<div data-page-id=\"LBOfdOdDAo9Udcx807ocXgtInYd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-JKD9dPHuhowwYYxhFLDcH2bZnic\">良好的游戏环境需要各位狩月人的共同努力。请大家相互监督，如发现任何违禁行为，欢迎通过游戏内客服进行举报。</div>\n<div class=\"ace-line ace-line old-record-id-NHgQdnp1zokuShx0yVocwOEHnpb\">客服联系方式：<a href=\"https://kf.yingxiong.com/kf2.0/user-center?game_id=2277&amp;lang=zh\" data-lark-is-custom=\"true\">联系客服</a></div>\n<div class=\"ace-line ace-line old-record-id-Pu1kd2W47oEaoTxW5srcsnC2nzR\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-BLaZdDtGNon1dex1ESwcieKgnOd\"><strong>《二重螺旋》运营团队</strong></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-P3OzdWOP2ot1anxbslScs1nhn2g\">&nbsp;</div>\n</div>",
-                ["language"] = "CN",
-                ["title1"] = "违规行为处罚公告",
             },
         },
     },
