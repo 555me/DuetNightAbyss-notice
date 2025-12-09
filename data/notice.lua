@@ -93,7 +93,29 @@ return {
             },
         },
     },
-    ["Version"] = 418,
+    ["Version"] = 419,
+    ["6937f44ce4b9a81d8555e274"] = {
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 40,
+            ["noticeType"] = "1,2",
+        },
+        ["StartTimestamp"] = 1765274678,
+        ["Title"] = "异乡来客",
+        ["UniqueId"] = "6937f44ce4b9a81d8555e274",
+        ["Channels"] = {
+        },
+        ["EndTimestamp"] = 1766484281,
+        ["Content"] = {
+            [1] = {
+                ["title"] = "【异乡来客】活动说明",
+                ["body"] = "<div data-page-id=\"A1zHdCcU3oOdDgx1esKcCqoXnqe\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-EyhPd5bUxosA3DxYnfUcRkUfnvf\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/09-限时任务 -【剧情前置】异乡来客.jpg\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div class=\"ace-line ace-line old-record-id-WRGtdSryEo87MtxByJ9cpy1Nnxd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-WRGtdSryEo87MtxByJ9cpy1Nnxd\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-EdsidJn5xoIK5RxGYGsccttmnvf\">2025年12月08日 10:00 ~ 2025年12月23日 04:59（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-LLt7dm0LPoHkAAxn1xAcsQyDn0e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-N5Bcdq9Ino7CJUxEo3NcBsyyn0c\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Sk9idUxKNo67zBxSDpucFqSonHe\">完成剧情任务「夜航篇&middot;致无名者的安魂曲」。</div>\n<div class=\"ace-line ace-line old-record-id-DlzcdjNE8ojsiOxb8KFcNQFon9d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-NZojdIDnDoiiKxxdvTqcdT53nL9\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Whl6dAW11oBINixxvnfc7Xnmnlf\">「暮夜的履迹」、「委托密函线索」、「深红凝珠」、「铜币」、「战斗旋律」、「武器说明书」。</div>\n<div class=\"ace-line ace-line old-record-id-JwKPdNyf7omYJBxOh3ocSUlgnRe\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-K7W7dpG0hoTN3vxQLHRcAp1on7b\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-UuoMdzkdcoGgAGxnwe3cZiFcnEg\">&bull; 在活动解锁后，狩月人可前往活动界面接取止流的委托任务，完成委托可获得委托密函线索、战斗旋律、武器说明书、铜币等奖励。</div>\n<div class=\"ace-line ace-line old-record-id-JDhtdS5yvoxvGaxfVmkcslKxnjf\">&bull; 完成累积七日委托，可获得暮夜的履迹道具奖励。</div>\n<div class=\"ace-line ace-line old-record-id-ND87dhqfposdUDxn8M9c5dYMnMc\">&bull; 活动持续期间，每日将发布委托，狩月人完成前一日的全部委托后，才可解锁并接取第二日的委托。</div>\n</div>",
+                ["language"] = "CN",
+                ["title1"] = "【异乡来客】活动说明",
+            },
+        },
+    },
     ["69251240db076752445eb2e6"] = {
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
