@@ -21,7 +21,7 @@ return {
         },
         ["UniqueId"] = "6949f72b80831a003d6c4b0c",
     },
-    ["Version"] = 467,
+    ["Version"] = 469,
     ["6949f40680831a003d6c4b05"] = {
         ["EndTimestamp"] = 1768363200,
         ["Title"] = "【收获日】活动说明",
@@ -88,6 +88,28 @@ return {
             ["notice_sort"] = 1,
         },
     },
+    ["694a11dd80831a003d6c4c04"] = {
+        ["EndTimestamp"] = 1953863506,
+        ["Title"] = "欢迎添加皎皎小助手",
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["title"] = "欢迎添加皎皎小助手",
+                ["noticeImageURL"] = "weixin://dl/business/?appid=wxfe42d57febf7bf0d&path=pgcontents/pages/drainage/index&query=shareInfo%3Df1NCR_iXyHqv5hIat_ec6uVB4gbVZHkMm9eoFvi6dy53pa4adI3pIv3WkmKoKaKlEoy6zzMcW_Zrc36drMNZbyEGjdwn9o3PMRSL2nxwf1uxPMxCRs02tvWedVK719zT%26type%3Ddrainage%26appid%3Dwxfe42d57febf7bf0d",
+                ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/20251023-企业微信.jpg",
+            },
+        },
+        ["StartTimestamp"] = 1766461902,
+        ["Channels"] = "",
+        ["img_channel_id"] = "",
+        ["UniqueId"] = "694a11dd80831a003d6c4c04",
+        ["ClientOnly"] = {
+            ["UIStyle"] = "0",
+            ["TypeTag"] = "3",
+            ["noticeType"] = "1,2",
+            ["notice_sort"] = 92,
+        },
+    },
     ["694138dbdc967019820482f0"] = {
         ["EndTimestamp"] = 1859626070,
         ["Title"] = "防沉迷系统说明",
@@ -108,6 +130,28 @@ return {
             ["noticeType"] = "1,2",
             ["UIStyle"] = "1",
             ["notice_sort"] = 50,
+        },
+    },
+    ["694a2d2e80831a003d6c4c0e"] = {
+        ["EndTimestamp"] = 1767073705,
+        ["Title"] = "「大风歌·上」更新修复说明",
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["title"] = "「大风歌·上」更新修复说明",
+                ["body"] = "<div data-lark-html-role=\"root\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-更新修复说明.png\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的狩月人：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍已知问题</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">✧ 在当前版本中，移动端有概率出现部分怪物无法正常受到伤害的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">✧ 在当前版本中，止流在部分场景中角色显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">✧ 在当前版本中，部分设备在编译着色器阶段有概率闪退，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">✧ 在当前版本中，部分设备的角色脸部有概率显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">✧ 在当前版本中，移动端设备出现长按锁定射击设置无效的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍更新内容说明</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>2025年12月23日</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">✦ 调整了采集物【残器】与【告苍】的文本描述。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">✦ 修复了部分本地化翻译缺失的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">✦ 修复了部分情况下，铸造界面无响应的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">✦ 修复了部分情况下，武器染色界面无法正常返回的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-page-id=\"G8Tbd4HGmoWuUhxtvuOcVbzOnFf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NOYidiXIlob7s8xn1gFcCMvVn4b\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+                ["title1"] = "「大风歌·上」更新修复说明",
+            },
+        },
+        ["StartTimestamp"] = 1766468903,
+        ["Channels"] = {
+        },
+        ["UniqueId"] = "694a2d2e80831a003d6c4c0e",
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "2",
+            ["noticeType"] = "1,2",
+            ["notice_sort"] = 8000,
         },
     },
     ["6949efd580831a003d6c4af6"] = {
