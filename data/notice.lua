@@ -1,27 +1,5 @@
 return {
-    ["6949f72b80831a003d6c4b0c"] = {
-        ["EndTimestamp"] = 1770609600,
-        ["Title"] = "【潮音起天末】活动限定万华开启！",
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["title"] = "【潮音起天末】活动限定万华开启！",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_潮音起天末_简1.jpg\" alt=\"\" width=\"720\" height=\"200\"></p>\n<div data-page-id=\"P07vdAKftoFfg2x2xlHccS9Wn8e\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcngqdMBW9zLY0JlaksWBAfPb\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcneHFYxLQlmYByUIVm6ICcjd\">2025年12月23日开服后 ~ 2026年2月10日维护前（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-doxcnwkFmuVdrtLtKID3NxVYBqf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnygE3FUE7Sn6LQLSwZh5d5e\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcngIDeMeEEoNtXMbwBF7TFcd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5TmYs2tanJIL3Evqtj1Jdu\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5i8j8fvIOg9yXviwpyR4sf\"><strong>【寻觅说明】</strong></div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnDuD3eJty87iU8KPKQWvTzh\" data-list=\"bullet\">\n<div>参与本期寻觅有概率获得「扶疏-素浪濯心」「虹色棱镜」等形象与道具。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnMlgbyKNI8gQaIQutmpVlwc\" data-list=\"bullet\">\n<div>「虹色棱镜」可在本期【限时兑换】中兑换本期【潮音起天末】系列限定外观。本期系列包含以下内容：角色形象、武器形象、光晕、脚步特效、角色武器装饰、展示动作等。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnHporZytJF1zcRGma9Flrjh\" data-list=\"bullet\">\n<div>本期限定形象「扶疏-素浪濯心」仅可在【潮音起天末】与「限时兑换」中获得，【潮音起天末】活动结束后，在「限时兑换」中仍会存在一段时间，活动时间结束后暂无获取途径。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnvkSIxMhuksC37Naz033u1f\" data-list=\"bullet\">\n<div>活动期间本期限定形象「扶疏-素浪濯心」将开启【水色吐息】时装试玩活动，完成试用关卡即可领取奖励。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnwzCjMbzTvQrCo7K6P5l6uc\" data-list=\"bullet\">\n<div>在本期【潮音起天末】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【潮音起天末】中进行寻觅，【潮音起天末】活动结束后将转换为「纯白沙漏」。</div>\n</li>\n</ul>\n<div data-page-id=\"P07vdAKftoFfg2x2xlHccS9Wn8e\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnxbE9y6SLvwzRUOaCGeZnBh\"><span style=\"color: rgb(77, 77, 77);\">*更多活动详细内容，请前往游戏内「万华」界面查看。</span></div>\n</div>\n</div>",
-                ["title1"] = "【潮音起天末】活动限定万华开启！",
-            },
-        },
-        ["StartTimestamp"] = 1766455067,
-        ["Channels"] = {
-        },
-        ["ClientOnly"] = {
-            ["TypeTag"] = "1",
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["notice_sort"] = 800,
-        },
-        ["UniqueId"] = "6949f72b80831a003d6c4b0c",
-    },
-    ["Version"] = 469,
+    ["Version"] = 477,
     ["6949f40680831a003d6c4b05"] = {
         ["EndTimestamp"] = 1768363200,
         ["Title"] = "【收获日】活动说明",
@@ -132,26 +110,66 @@ return {
             ["notice_sort"] = 50,
         },
     },
-    ["694a2d2e80831a003d6c4c0e"] = {
-        ["EndTimestamp"] = 1767073705,
-        ["Title"] = "「大风歌·上」更新修复说明",
+    ["694a415c80831a003d6c4c10"] = {
+        ["EndTimestamp"] = 1769183999,
+        ["Title"] = "TapTap独家活动",
         ["Content"] = {
             [1] = {
                 ["language"] = "CN",
-                ["title"] = "「大风歌·上」更新修复说明",
-                ["body"] = "<div data-lark-html-role=\"root\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-更新修复说明.png\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的狩月人：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍已知问题</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">✧ 在当前版本中，移动端有概率出现部分怪物无法正常受到伤害的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">✧ 在当前版本中，止流在部分场景中角色显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">✧ 在当前版本中，部分设备在编译着色器阶段有概率闪退，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">✧ 在当前版本中，部分设备的角色脸部有概率显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">✧ 在当前版本中，移动端设备出现长按锁定射击设置无效的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍更新内容说明</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>2025年12月23日</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">✦ 调整了采集物【残器】与【告苍】的文本描述。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">✦ 修复了部分本地化翻译缺失的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">✦ 修复了部分情况下，铸造界面无响应的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">✦ 修复了部分情况下，武器染色界面无法正常返回的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-page-id=\"G8Tbd4HGmoWuUhxtvuOcVbzOnFf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NOYidiXIlob7s8xn1gFcCMvVn4b\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
-                ["title1"] = "「大风歌·上」更新修复说明",
+                ["title"] = "TapTap独家活动",
+                ["body"] = "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/gVshPKG9bD.jpg\" alt=\"\" width=\"720\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">TapTap独家活动已开启，参与活动赢iphone17 pro Max，5060游戏本！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">【点击&ldquo;<a href=\"https://www.taptap.cn/poster/NHnT9hQrgdah?utm_content=aid1519\">参与活动</a>&rdquo;即可参与，丰富好礼等你拿！】</div>\n</div>",
+                ["title1"] = "TapTap独家活动",
             },
         },
-        ["StartTimestamp"] = 1766468903,
+        ["StartTimestamp"] = 1766474067,
         ["Channels"] = {
+            [1] = {
+                ["name"] = "hero",
+                ["code"] = "hero",
+            },
+            [2] = {
+                ["name"] = "cloud",
+                ["code"] = "cloud",
+            },
         },
-        ["UniqueId"] = "694a2d2e80831a003d6c4c0e",
+        ["img_channel_id"] = {
+            [1] = {
+                ["name"] = "TapTap",
+                ["code"] = "TapTap",
+            },
+            [2] = {
+                ["name"] = "Hero",
+                ["code"] = "Hero",
+            },
+        },
+        ["UniqueId"] = "694a415c80831a003d6c4c10",
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
-            ["TypeTag"] = "2",
+            ["TypeTag"] = "3",
             ["noticeType"] = "1,2",
-            ["notice_sort"] = 8000,
+            ["notice_sort"] = 90,
+        },
+    },
+    ["694a553280831a003d6c4c1b"] = {
+        ["EndTimestamp"] = 1770609600,
+        ["Title"] = "【潮音起天末】活动限定万华开启！",
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["title"] = "【潮音起天末】活动限定万华开启！",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_潮音起天末_简2.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"P07vdAKftoFfg2x2xlHccS9Wn8e\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcngqdMBW9zLY0JlaksWBAfPb\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcneHFYxLQlmYByUIVm6ICcjd\">2025年12月23日开服后 ~ 2026年2月10日维护前（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-doxcnwkFmuVdrtLtKID3NxVYBqf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnygE3FUE7Sn6LQLSwZh5d5e\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcngIDeMeEEoNtXMbwBF7TFcd\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5TmYs2tanJIL3Evqtj1Jdu\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5i8j8fvIOg9yXviwpyR4sf\"><strong>【寻觅说明】</strong></div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-doxcnDuD3eJty87iU8KPKQWvTzh\" data-list=\"bullet\">\n<div>参与本期寻觅有概率获得「扶疏-素浪濯心」「虹色棱镜」等形象与道具。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnMlgbyKNI8gQaIQutmpVlwc\" data-list=\"bullet\">\n<div>「虹色棱镜」可在本期【限时兑换】中兑换本期【潮音起天末】系列限定外观。本期系列包含以下内容：角色形象、武器形象、光晕、脚步特效、角色武器装饰、展示动作等。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnHporZytJF1zcRGma9Flrjh\" data-list=\"bullet\">\n<div>本期限定形象「扶疏-素浪濯心」仅可在【潮音起天末】与「限时兑换」中获得，【潮音起天末】活动结束后，在「限时兑换」中仍会存在一段时间，活动时间结束后暂无获取途径。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnvkSIxMhuksC37Naz033u1f\" data-list=\"bullet\">\n<div>活动期间本期限定形象「扶疏-素浪濯心」将开启【水色吐息】时装试玩活动，完成试用关卡即可领取奖励。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-doxcnwzCjMbzTvQrCo7K6P5l6uc\" data-list=\"bullet\">\n<div>在本期【潮音起天末】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【潮音起天末】中进行寻觅，【潮音起天末】活动结束后将转换为「纯白沙漏」。</div>\n</li>\n</ul>\n<div data-page-id=\"P07vdAKftoFfg2x2xlHccS9Wn8e\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnxbE9y6SLvwzRUOaCGeZnBh\"><span style=\"color: rgb(77, 77, 77);\">*更多活动详细内容，请前往游戏内「万华」界面查看。</span></div>\n</div>\n</div>",
+                ["title1"] = "【潮音起天末】活动限定万华开启！",
+            },
+        },
+        ["StartTimestamp"] = 1766479138,
+        ["Channels"] = {
+        },
+        ["UniqueId"] = "694a553280831a003d6c4c1b",
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "1",
+            ["noticeType"] = "1,2",
+            ["notice_sort"] = 800,
         },
     },
     ["6949efd580831a003d6c4af6"] = {
@@ -308,38 +326,6 @@ return {
         },
         ["UniqueId"] = "6943e8a7dc96701982048e36",
     },
-    ["694a005480831a003d6c4b1c"] = {
-        ["EndTimestamp"] = 1769183999,
-        ["Title"] = "TapTap独家活动",
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["title"] = "TapTap独家活动",
-                ["body"] = "<div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/gVshPKG9bD.jpg\" alt=\"\" width=\"720\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">TapTap独家活动已开启，参与活动赢iphone17 pro Max，5060游戏本！</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">【点击&ldquo;<a href=\"https://www.taptap.cn/poster/NHnT9hQrgdah?utm_content=aid1519\">参与活动</a>&rdquo;即可参与，丰富好礼等你拿！】</div>\n</div>",
-                ["title1"] = "TapTap独家活动",
-            },
-        },
-        ["StartTimestamp"] = 1766457406,
-        ["Channels"] = {
-            [1] = {
-                ["name"] = "hero",
-                ["code"] = "hero",
-            },
-        },
-        ["img_channel_id"] = {
-            [1] = {
-                ["name"] = "TapTap",
-                ["code"] = "TapTap",
-            },
-        },
-        ["UniqueId"] = "694a005480831a003d6c4b1c",
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "3",
-            ["noticeType"] = "1,2",
-            ["notice_sort"] = 90,
-        },
-    },
     ["6949effa80831a003d6c4af7"] = {
         ["EndTimestamp"] = 1770609600,
         ["Title"] = "【皎皎特别剧场】活动说明",
@@ -383,6 +369,28 @@ return {
             ["notice_sort"] = 550,
         },
         ["UniqueId"] = "6949f08480831a003d6c4afa",
+    },
+    ["694a53c180831a003d6c4c19"] = {
+        ["EndTimestamp"] = 1767688380,
+        ["Title"] = "「大风歌·上」更新修复说明",
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["title"] = "「大风歌·上」更新修复说明",
+                ["body"] = "<div data-lark-html-role=\"root\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-更新修复说明.png\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的狩月人：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n<div data-zone-id=\"0\" data-line-index=\"2\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍已知问题</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"4\" data-line=\"true\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</div>\n<div data-zone-id=\"0\" data-line-index=\"5\" data-line=\"true\">✧ 在当前版本中，移动端有概率出现部分怪物无法正常受到伤害的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"6\" data-line=\"true\">✧ 在当前版本中，止流在部分场景中角色显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"7\" data-line=\"true\">✧ 在当前版本中，部分设备在编译着色器阶段有概率闪退，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"8\" data-line=\"true\">✧ 在当前版本中，部分设备的角色脸部有概率显示异常，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"9\" data-line=\"true\">✧ 在当前版本中，移动端设备出现长按锁定射击设置无效的问题，该问题将于近期更新修复。</div>\n<div data-zone-id=\"0\" data-line-index=\"10\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"11\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>▍更新内容说明</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"12\" data-line=\"true\"><span style=\"color: rgb(248, 153, 52);\"><strong>2025年12月23日</strong></span></div>\n<div data-zone-id=\"0\" data-line-index=\"13\" data-line=\"true\">✦ 调整了采集物【残器】与【告苍】的文本描述。</div>\n<div data-zone-id=\"0\" data-line-index=\"14\" data-line=\"true\">✦ 修复了部分本地化翻译缺失的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"15\" data-line=\"true\">✦ 修复了部分情况下，铸造界面无响应的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">✦ 修复了部分情况下，武器染色界面无法正常返回的问题。</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"6\">✦ 修复了印象商店中混沌系列头像图标显示错误的问题。</span></div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-page-id=\"G8Tbd4HGmoWuUhxtvuOcVbzOnFf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NOYidiXIlob7s8xn1gFcCMvVn4b\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+                ["title1"] = "「大风歌·上」更新修复说明",
+            },
+        },
+        ["StartTimestamp"] = 1766478776,
+        ["Channels"] = {
+        },
+        ["UniqueId"] = "694a53c180831a003d6c4c19",
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "2",
+            ["noticeType"] = "1,2",
+            ["notice_sort"] = 8000,
+        },
     },
     ["6949efb680831a003d6c4af5"] = {
         ["EndTimestamp"] = 1768795200,
