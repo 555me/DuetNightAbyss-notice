@@ -30,7 +30,7 @@ jobs:
         git config --global user.email "cmude@github.com"
         if ! git diff --quiet README.md; then
           git add -A .
-          git commit -m "13"
+          git commit -m "v2"
           git push origin main
           echo "update successful!"
           exit 0
