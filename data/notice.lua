@@ -89,6 +89,30 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
+    ["698ec6a11786e23d83bbb57d"] = {
+        ["Title"] = "【凭阑暖韶光】新春福利",
+        ["EndTimestamp"] = 1771775999,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "3",
+            ["notice_sort"] = 99000,
+        },
+        ["StartTimestamp"] = 1771128000,
+        ["UniqueId"] = "698ec6a11786e23d83bbb57d",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【凭阑暖韶光】新春福利",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/20260213-142239.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<p>✦【凭阑暖韶光】新春福利✦</p>\n<p>限时登录即送《云&middot;二重螺旋》七天畅玩卡！</p>\n<p>【活动时间】<br>2026年2月16日00:00 ~ 2026年2月22日 23:59（UTC+8）</p>\n<p>【奖励内容】<br>《云&middot;二重螺旋》七天畅玩卡</p>\n<p>【领取方式】<br>活动期间登录移动端或者网页端《云&middot;二重螺旋》即可领取奖励。</p>\n<p>【登录方式】<br>《云&middot;二重螺旋》网页端：<a href=\"https://dna.yingxiong.com/cloudgame\">&gt;&gt;点击前往&lt;&lt;</a><br>《云&middot;二重螺旋》移动端：<a href=\"https://cdn.yingxiong.com/dna/cloud_dna.apk\">&gt;&gt;点击下载&lt;&lt;</a></p>",
+                ["language"] = "CN",
+                ["title"] = "【凭阑暖韶光】新春福利",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
     ["68fb629f29334956bbd24620"] = {
         ["UniqueId"] = "68fb629f29334956bbd24620",
         ["Channels"] = "",
@@ -110,6 +134,50 @@ return {
             ["notice_sort"] = 1,
         },
         ["StartTimestamp"] = 1761305239,
+    },
+    ["6949efa080831a003d6c4af4"] = {
+        ["UniqueId"] = "6949efa080831a003d6c4af4",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_华胥香识记.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"XHpTdsVU3oSaz6x3yNbc1eDPnyg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcntmFnXIyaFQ4jHtqjb9SSbf\">华胥，一片香气氤氲的安宁土地。你受邀而来，期待着止流为你描绘的，那前所未见，却亘古已有的缥缈风景。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnOHdgzkhfQ4tJAtJEeQoYuM\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn714a9NB6H5PRT3n6bvxjFc\">2025年12月23日开服后 ~ 2026年4月7日 05:00 （UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-doxcnOf8i931aXtTF5flDqtptwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn17YkXaBo2vV5pquBBZwNHy\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnc9FIF3TaW7PljbHxOjNIUg\">完成世界纪游剧情【《寻物启事》】。</div>\n<div class=\"ace-line ace-line old-record-id-doxcndAjsmQRGUmxSIpm0f1yegb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8CyVuewHZIdq6hUGD1IYCb\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnHNMZgZuY561sLeKq1BHVIg\">「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「武器说明书&middot;三」「战斗旋律&middot;三」「深红凝珠」「铜币」</div>\n<div class=\"ace-line ace-line old-record-id-doxcnKCvj4sQ9fdJd8Lj01dKTEb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnPzM4SCDPdhYxSCUiOTNpdQ\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn6Ik9zs9DeHfe0etFYQHCjd\">活动分为四个章节【初识华胥】【巧解连环】【干戈未止】【沿途见闻】。</div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-OtvWd7ijqoU2KUx5ZaVc1pGinYw\" data-list=\"bullet\">\n<div>【初识华胥】：随着主线任务推进，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-SLHsdG2KfoLiKHxeTBycXk96nRi\" data-list=\"bullet\">\n<div>【巧解连环】：完成「烟津渡」区域的相关挑战任务，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-Pc1FdkikkoCIQaxpxUwcGILYnqe\" data-list=\"bullet\">\n<div>【干戈未止】：击败「烟津渡」区域指定怪物，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-PRDQdHg9oobaAtxlllOcjCKwnAv\" data-list=\"bullet\">\n<div>【沿途见闻】：完成「烟津渡」区域收集任务，即可完成本章节任务。</div>\n</li>\n</ul>\n</div>",
+                ["title1"] = "【华胥香识记】全新地区华胥上线！",
+                ["title"] = "【华胥香识记】全新地区华胥上线！",
+            },
+        },
+        ["Title"] = "【华胥香识记】全新地区华胥上线！",
+        ["EndTimestamp"] = 1775448000,
+        ["ClientOnly"] = {
+            ["noticeType"] = "1,2",
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 600,
+        },
+        ["StartTimestamp"] = 1766453135,
+    },
+    ["694138dbdc967019820482f0"] = {
+        ["UniqueId"] = "694138dbdc967019820482f0",
+        ["Channels"] = "",
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-防沉迷系统说明.png\" alt=\"\" width=\"728\" height=\"200\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</p>\n<div data-page-id=\"Qb3ZdQ62GoIkMLxCvkmcqVhXnB2\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn6YpkS1nXLYXK3tySExbgxe\">具体规则如下：</div>\n<ol>\n<li class=\"ace-line ace-line old-record-id-doxcnZryLqIZwtKcMqahA4bSXKb\"><strong><span style=\"color: rgb(248, 153, 52);\">实名认证</span></strong>：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnbWUtCyRcyiz5nje27Cc0ff\"><span style=\"color: rgb(248, 153, 52);\"><strong>未成年在线时长限制</strong></span>：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-doxcnjjcYYh8qYlSMdqlU6d3Gzb\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnjjcYYh8qYlSMdqlU6d3Gzb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">\n<div data-page-id=\"X6rzdi7wso9qHWxb6XzcvHazn6c\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">&nbsp;</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnRdNBr5AAtFpEfwHCs6FHhb\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnRdNBr5AAtFpEfwHCs6FHhb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8Hx37wwyB8cbZzVCjpMewb\">《二重螺旋》运营团队</div>\n</div>",
+                ["title1"] = "防沉迷系统说明",
+                ["title"] = "防沉迷系统说明",
+            },
+        },
+        ["Title"] = "防沉迷系统说明",
+        ["EndTimestamp"] = 1859626070,
+        ["img_channel_id"] = "",
+        ["ClientOnly"] = {
+            ["noticeType"] = "1,2",
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "2",
+            ["notice_sort"] = 50,
+        },
+        ["StartTimestamp"] = 1765882067,
     },
     ["698dcaba1786e23d83bbb498"] = {
         ["Title"] = "「大风歌·下」更新修复说明",
@@ -187,7 +255,7 @@ return {
         },
         ["StartTimestamp"] = 1770692400,
     },
-    ["Version"] = 596,
+    ["Version"] = 600,
     ["6989e6a71786e23d83bb7c30"] = {
         ["UniqueId"] = "6989e6a71786e23d83bb7c30",
         ["Channels"] = {
@@ -210,27 +278,29 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
-    ["6949efa080831a003d6c4af4"] = {
-        ["UniqueId"] = "6949efa080831a003d6c4af4",
+    ["698ed1f91786e23d83bbc1e5"] = {
+        ["Title"] = "周边上新：大风歌版本商品",
+        ["EndTimestamp"] = 1772701200,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "0",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "3",
+            ["notice_sort"] = 9500,
+        },
+        ["StartTimestamp"] = 1770973200,
+        ["UniqueId"] = "698ed1f91786e23d83bbc1e5",
         ["Channels"] = {
         },
         ["Content"] = {
             [1] = {
                 ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_华胥香识记.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"XHpTdsVU3oSaz6x3yNbc1eDPnyg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcntmFnXIyaFQ4jHtqjb9SSbf\">华胥，一片香气氤氲的安宁土地。你受邀而来，期待着止流为你描绘的，那前所未见，却亘古已有的缥缈风景。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnOHdgzkhfQ4tJAtJEeQoYuM\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn714a9NB6H5PRT3n6bvxjFc\">2025年12月23日开服后 ~ 2026年4月7日 05:00 （UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-doxcnOf8i931aXtTF5flDqtptwb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn17YkXaBo2vV5pquBBZwNHy\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnc9FIF3TaW7PljbHxOjNIUg\">完成世界纪游剧情【《寻物启事》】。</div>\n<div class=\"ace-line ace-line old-record-id-doxcndAjsmQRGUmxSIpm0f1yegb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8CyVuewHZIdq6hUGD1IYCb\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnHNMZgZuY561sLeKq1BHVIg\">「委托密函线索」「暮夜的履迹」「移转模块」「武器移转模块」「武器说明书&middot;三」「战斗旋律&middot;三」「深红凝珠」「铜币」</div>\n<div class=\"ace-line ace-line old-record-id-doxcnKCvj4sQ9fdJd8Lj01dKTEb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnPzM4SCDPdhYxSCUiOTNpdQ\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn6Ik9zs9DeHfe0etFYQHCjd\">活动分为四个章节【初识华胥】【巧解连环】【干戈未止】【沿途见闻】。</div>\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-OtvWd7ijqoU2KUx5ZaVc1pGinYw\" data-list=\"bullet\">\n<div>【初识华胥】：随着主线任务推进，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-SLHsdG2KfoLiKHxeTBycXk96nRi\" data-list=\"bullet\">\n<div>【巧解连环】：完成「烟津渡」区域的相关挑战任务，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-Pc1FdkikkoCIQaxpxUwcGILYnqe\" data-list=\"bullet\">\n<div>【干戈未止】：击败「烟津渡」区域指定怪物，即可完成本章节任务。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-PRDQdHg9oobaAtxlllOcjCKwnAv\" data-list=\"bullet\">\n<div>【沿途见闻】：完成「烟津渡」区域收集任务，即可完成本章节任务。</div>\n</li>\n</ul>\n</div>",
-                ["title1"] = "【华胥香识记】全新地区华胥上线！",
-                ["title"] = "【华胥香识记】全新地区华胥上线！",
+                ["noticeImageURL"] = "http://erchongluoxuan.tmall.com",
+                ["title"] = "周边上新：大风歌版本商品",
+                ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/游戏端内banner-1478×1000.jpg",
             },
         },
-        ["Title"] = "【华胥香识记】全新地区华胥上线！",
-        ["EndTimestamp"] = 1775448000,
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 600,
+        ["pakInfos"] = {
         },
-        ["StartTimestamp"] = 1766453135,
     },
     ["698568e51786e23d83bb41d3"] = {
         ["UniqueId"] = "698568e51786e23d83bb41d3",
@@ -341,28 +411,6 @@ return {
             ["notice_sort"] = 800,
         },
         ["StartTimestamp"] = 1770609600,
-    },
-    ["694138dbdc967019820482f0"] = {
-        ["UniqueId"] = "694138dbdc967019820482f0",
-        ["Channels"] = "",
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-防沉迷系统说明.png\" alt=\"\" width=\"728\" height=\"200\">为了保护未成年人的身心健康，根据国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，《二重螺旋》将在游戏中实施防沉迷系统。</p>\n<div data-page-id=\"Qb3ZdQ62GoIkMLxCvkmcqVhXnB2\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn6YpkS1nXLYXK3tySExbgxe\">具体规则如下：</div>\n<ol>\n<li class=\"ace-line ace-line old-record-id-doxcnZryLqIZwtKcMqahA4bSXKb\"><strong><span style=\"color: rgb(248, 153, 52);\">实名认证</span></strong>：所有狩月人在登录并体验游戏前需要进行实名认证，未通过实名认证的账号将无法登录游戏。</li>\n<li class=\"ace-line ace-line old-record-id-doxcnbWUtCyRcyiz5nje27Cc0ff\"><span style=\"color: rgb(248, 153, 52);\"><strong>未成年在线时长限制</strong></span>：仅在周五、周六、周日和法定节假日的20时-21时，向未成年人提供1小时游戏服务，其他时间未成年人将无法登录游戏。</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-doxcnjjcYYh8qYlSMdqlU6d3Gzb\">《二重螺旋》将严格执行防沉迷系统规则，对违反规定的账号进行限制登录、封禁等相应处理。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnjjcYYh8qYlSMdqlU6d3Gzb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">请各位狩月人自觉遵守以上规定，共同营造一个健康、公平、绿色的游戏环境。如有任何疑问或建议，欢迎联系我们的客服团队。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTYKqT49rgWe9KWst4fULle\">\n<div data-page-id=\"X6rzdi7wso9qHWxb6XzcvHazn6c\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">&nbsp;</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnRdNBr5AAtFpEfwHCs6FHhb\">感谢狩月人的理解与支持。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnRdNBr5AAtFpEfwHCs6FHhb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8Hx37wwyB8cbZzVCjpMewb\">《二重螺旋》运营团队</div>\n</div>",
-                ["title1"] = "防沉迷系统说明",
-                ["title"] = "防沉迷系统说明",
-            },
-        },
-        ["Title"] = "防沉迷系统说明",
-        ["EndTimestamp"] = 1859626070,
-        ["img_channel_id"] = "",
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "2",
-            ["notice_sort"] = 50,
-        },
-        ["StartTimestamp"] = 1765882067,
     },
     ["698a9b681786e23d83bb7c66"] = {
         ["UniqueId"] = "698a9b681786e23d83bb7c66",
