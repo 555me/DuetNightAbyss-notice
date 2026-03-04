@@ -135,58 +135,6 @@ return {
         },
         ["StartTimestamp"] = 1761305239,
     },
-    ["698a9c4e1786e23d83bb7c68"] = {
-        ["UniqueId"] = "698a9c4e1786e23d83bb7c68",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/1.2Tap.jpg\" alt=\"\" width=\"720\" height=\"200\"></p>\n<p>TapTap独家活动已开启，参与活动赢华为Mate 80手机、索尼PS5等惊喜好礼!！<br>【点击&ldquo;<a href=\"https://www.taptap.cn/poster/NH6H7THkejv3?utm_content=aid1618\">参与活动</a>&rdquo;即可参与，丰富好礼等你拿！】</p>",
-                ["title1"] = "TapTap独家活动",
-                ["title"] = "TapTap独家活动",
-            },
-        },
-        ["Title"] = "TapTap独家活动",
-        ["EndTimestamp"] = 1773158399,
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "3",
-            ["notice_sort"] = 9000,
-        },
-        ["pakInfos"] = {
-            [1] = {
-                ["code"] = "1.0",
-                ["name"] = "(56_0)IOS-官方",
-            },
-            [2] = {
-                ["code"] = "12.0",
-                ["name"] = "(237_287)PC-Tap",
-            },
-            [3] = {
-                ["code"] = "4.0",
-                ["name"] = "(18_167)安卓-Tap",
-            },
-            [4] = {
-                ["code"] = "2.0",
-                ["name"] = "(18_0)安卓-官方",
-            },
-            [5] = {
-                ["code"] = "15.0",
-                ["name"] = "(300_0)安卓-云游戏",
-            },
-            [6] = {
-                ["code"] = "22.0",
-                ["name"] = "(314_0)PC-云游戏",
-            },
-            [7] = {
-                ["code"] = "8.0",
-                ["name"] = "(237_259)PC-官方",
-            },
-        },
-        ["StartTimestamp"] = 1770692400,
-    },
     ["6949efa080831a003d6c4af4"] = {
         ["UniqueId"] = "6949efa080831a003d6c4af4",
         ["Channels"] = {
@@ -347,6 +295,58 @@ return {
         },
         ["StartTimestamp"] = 1766058139,
     },
+    ["69a7970313b1175eceb8f47d"] = {
+        ["Title"] = "TapTap独家活动",
+        ["EndTimestamp"] = 1773158399,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "3",
+            ["notice_sort"] = 9000,
+        },
+        ["StartTimestamp"] = 1772590843,
+        ["UniqueId"] = "69a7970313b1175eceb8f47d",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "TapTap独家活动",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/1.2Tap.jpg\" alt=\"\" width=\"720\" height=\"200\"></p>\n<p>TapTap独家活动已开启，参与活动赢华为Mate 80手机、索尼PS5等惊喜好礼!！<br>【点击&ldquo;<a href=\"https://l.taptap.cn/BJXf15Nx?channel=rep-rep_ho6jaloayis_h5url7262\">参与活动</a>&rdquo;即可参与，丰富好礼等你拿！】</p>",
+                ["language"] = "CN",
+                ["title"] = "TapTap独家活动",
+            },
+        },
+        ["pakInfos"] = {
+            [1] = {
+                ["code"] = "1.0",
+                ["name"] = "(56_0)IOS-官方",
+            },
+            [2] = {
+                ["code"] = "12.0",
+                ["name"] = "(237_287)PC-Tap",
+            },
+            [3] = {
+                ["code"] = "4.0",
+                ["name"] = "(18_167)安卓-Tap",
+            },
+            [4] = {
+                ["code"] = "2.0",
+                ["name"] = "(18_0)安卓-官方",
+            },
+            [5] = {
+                ["code"] = "15.0",
+                ["name"] = "(300_0)安卓-云游戏",
+            },
+            [6] = {
+                ["code"] = "22.0",
+                ["name"] = "(314_0)PC-云游戏",
+            },
+            [7] = {
+                ["code"] = "8.0",
+                ["name"] = "(237_259)PC-官方",
+            },
+        },
+    },
     ["69a1a1651786e23d83bbce51"] = {
         ["Title"] = "违规行为处罚公告",
         ["EndTimestamp"] = 1801489889,
@@ -437,5 +437,5 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
-    ["Version"] = 613,
+    ["Version"] = 615,
 }
