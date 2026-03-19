@@ -19,9 +19,13 @@ jobs:
       run: |
         echo "# 二重螺旋公告MD版" > README.md
         echo "公告更新时间：" >> README.md
-        Kb="https://pan01-cdn-dna-ali.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
+        Kb="http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice10001"
+        mQ="http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice80001"
+        c3="http://pan01-1-eo.shyxhy.com/OperationGameNotice/OperationGameNotice70001"
         curl -sI $Kb | grep -i 'Last-Modified:' | cut -d' ' -f2- >> README.md
         curl $Kb > data/notice.lua
+        curl $mQ > data/notice_beta1.lua
+        curl $c3 > data/notice_beta2.lua
 
     - name: 6k
       if: success()
