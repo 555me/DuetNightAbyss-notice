@@ -67,30 +67,6 @@ return {
         },
         ["StartTimestamp"] = 1764133324,
     },
-    ["69a92c1e13b1175eceb8f76a"] = {
-        ["Title"] = "「大风歌·下」更新修复说明",
-        ["EndTimestamp"] = 1773904155,
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["noticeType"] = "1,2",
-            ["TypeTag"] = "2",
-            ["notice_sort"] = 8000,
-        },
-        ["StartTimestamp"] = 1772694554,
-        ["UniqueId"] = "69a92c1e13b1175eceb8f76a",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["title1"] = "「大风歌·下」更新修复说明",
-                ["body"] = "<div data-lark-html-role=\"root\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-更新修复说明.png\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的狩月人：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">\n<div data-lark-html-role=\"root\"><span style=\"color: rgb(248, 153, 52); font-size: 14pt;\"><strong><span class=\"text-only\" data-eleid=\"3\">▍已知问题</span></strong> </span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</span></div>\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"3\">✧ 在当前版本中，进行【忘川照影】任务时有概率出现船只消失和花苞无法击破的问题，该问题将于近期更新中修复。如您现在遇到了该问题，可联系客服进行处理。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"7\">✧ 在当前版本中，解除坐骑骑乘状态后，角色冲刺跑步期间转身，有概率出现不播放转身动画的问题，该问题将于后续版本更新中修复。</span></div>\n</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">\n<div data-page-id=\"Yadpdnm4PoNBohxfyVVcop1gndg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Bw5SdCNOvoTgLXxIwaOceFounyc\">\n<div data-page-id=\"MYJOdAFkso6TEMxPB9Mcq0PvnJh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<h3 class=\"heading-3 ace-line old-record-id-SlGqdhzovoknPKxKuo0cAX94nXf\"><span style=\"color: rgb(248, 153, 52);\">▍更新内容说明</span></h3>\n<div data-page-id=\"GKXed6jPPoP14WxJkmOcmwcrnlf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Tl7pdtfgUoxAaTxrpxGcxYlsn4c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年3月05日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-PTNvdFtdXoVIgKxoJSocmHg8nud\">✦ 修复了在部分显卡设备下，水面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-EXNJdHzkPoCCPzxWn9fc5YSnnjd\">✦ 修复了在使用手柄的情况下，自动轮次在选择委托密函时未聚焦选项的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PtDRdryoDoknwbxhMtxc3gOPnob\">✦ 修复了【西比尔】通过【指尖风暴】召唤的【召唤物&middot;紊乱雷球】的传递伤害来源不正确的问题。</div>\n<div class=\"ace-line ace-line old-record-id-SOfQdkDPoocx21xzYZQcNF9ZnNc\">✦ 修复了部分情况下会出现角色在集齐思绪片段后无法正常解锁的问题。</div>\n<div class=\"ace-line ace-line old-record-id-ApdNdAuIloviIRxueqzcfuR6nSf\">✦ 修复了煜明在部分情况下的穿模问题。</div>\n<div class=\"ace-line ace-line old-record-id-IdYfd3BZooAdM7xh10rcZFkunHg\">✦ 优化了部分界面的换行显示效果。</div>\n<div class=\"ace-line ace-line old-record-id-IdYfd3BZooAdM7xh10rcZFkunHg\">&nbsp;</div>\n</div>\n<div data-page-id=\"UY7xdqLJeolxvGxd0AjcTnt2nCc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-N14Ud559FoFY67xteqVc8NjKnFe\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月27日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-HIeFdQO34o4iXixVO6xcmTr5nzg\">✦ 新增头像框「糖福禄」，获取全套【糖福禄】系列武器装扮可免费领取。</div>\n<div class=\"ace-line ace-line old-record-id-QdtvdyZGXoMAL3xoGCac2XoMn7f\">✦ 修复了进行【忘川照影】任务时有概率出现船只消失和花苞无法击破的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OoCldC6lUopDl5xdwYkcLWPnnTg\">✦ 修复了【声名】系统界面红点显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OVi6d6cCOoFSxCxb7B4c7Nmmnec\">✦ 修复了部分地图场景中模型缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NVTGdcI1ZoSrHHxHRS3cOnq2nfd\">✦ 修复了「魔王头套」显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NVTGdcI1ZoSrHHxHRS3cOnq2nfd\">&nbsp;</div>\n</div>\n<div data-page-id=\"LynDdoshio2BFDxKWpqcnsXMnlb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Ucg2dYcMaotkjAxoxSFcw0p9nLb\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月20日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-VJO1dnUJioDTmZxmSKTcHjvwnnd\">✦ 修复了限时委托中【掠影 失序的应天侍】奖励掉落预览错误的问题，正确奖励掉落预览为【羽蛇之决断】，实际掉落不受问题影响。</div>\n<div class=\"ace-line ace-line old-record-id-O2R0dTPYfoksSexB9FfcL5QUnWb\">✦ 修复了部分本地化文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-O2R0dTPYfoksSexB9FfcL5QUnWb\">&nbsp;</div>\n</div>\n<div data-page-id=\"QXMRdN9PVoeBKSxAqKxcnWzcnnd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LBuHdSxoPoRbm7xumk2c10e2nWf\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月13日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-BYwqdKlNjocQRaxXV71c7Ggin3g\">✦ 优化了夜航手册LV60【舍身 芳烬秽兽】、【掠影 失序的应天侍】、【霹雳 魁蕊秽兽】副本中号令者的刷新逻辑，优化后，号令者将开局在距离玩家较近的位置刷新。</div>\n<div class=\"ace-line ace-line old-record-id-TfOxd8FZAoOs4Dxjox2cmSWdn5b\">✦ 修复了一定情况下，钓鱼额外奖励无法触发的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TfOxd8FZAoOs4Dxjox2cmSWdn5b\">\n<div data-page-id=\"QXMRdN9PVoeBKSxAqKxcnWzcnnd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-F8iKdfbcdokmFXxx3AMcQmksnAd\">✦ 修复了异化冥犬之纠缠&middot;攻势增幅消耗素材异常的问题。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-Fz4pdp3Q3ozrfsxY9XQcV3jhnEd\">✦ 修复了部分本地化文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Fz4pdp3Q3ozrfsxY9XQcV3jhnEd\">&nbsp;</div>\n</div>\n<div data-page-id=\"Y6S4d6AKXocqorxBvancUD8Xnqg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnoe1gBtBwxlzSiKTqLyEIHb\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月12日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnqufwm1Zso0oV6b3hNe7yCT\">✦ 修复了查看其他狩月人信息页面时有概率显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnODKDj1zc5DH5XeTMawsxCc\">✦ 修复了止流技能特效会影响联机中其他狩月人的问题以及其特效有概率发生偏移的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn7VvzkJ2GNc2d17a1dkrLqu\">✦ 修复了止流在穿戴「携金宴夜」释放技能时语音有概率会被打断的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnJanXoIyKwFQMantNgAHxj0\">✦ 修复了形象试玩活动【山止川行】中止流的发型错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnpbJWJ1pmSQ3yaFR8zPQKqc\">✦ 修复了「昨日匆匆」和「墨玉韶华」系列形象的材质在部分场景下显示的颜色会偏黑的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnaUKMrYnbMIKU5jnVNaf7Uf\">✦ 修复了重复多次打开【重铸】界面会出现界面显示不全的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn4fYvcuxAZrOdxo8V1PUBfE\">✦ 修复了同时铸造多个消耗相同的魔之楔后进行取消锻造，在取消第二个魔之楔时会取消失败的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WRyydwOFDo3fxVx1t82cBYycnQd\">✦ 修复了在对部分部位的装饰进行染色后，进入装饰预览界面时，相关装饰的颜色会显示为默认颜色的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NHfIdHPrHoM6wXxpjEXcsRazni6\">✦ 修复了击败「烛阴」后无法完成活动【华胥香识记】对应任务的问题。</div>\n<div class=\"ace-line ace-line old-record-id-EdcbdldWroDWNNxhHl2cUzAxnze\">✦ 修复了海尔法装配形象「昨日匆匆」时，「背部装饰&middot;下」部位装饰消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TnMbdf1x8o4Nepxt73ycvuvSnwd\">✦ 修复了部分提示文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TnMbdf1x8o4Nepxt73ycvuvSnwd\">&nbsp;</div>\n</div>\n<div data-page-id=\"BU6wdHsTLo3Tbqxe8wZcrVQYn6b\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NpNBdol6Yor7uPxlqUEcaVsMnBo\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月11日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-S3iwdDYgvoWXgRxMt9bcx7pVnmc\">✦ 优化调整了自动轮次各环节的倒计时时间，从原先10秒调整为3秒。</div>\n<div class=\"ace-line ace-line old-record-id-WL4QduyWRoOmybxvk9mcboaXnOe\">✦ 修复了在密函结算时掉线，系统自动补发奖励有极低概率未正常发放的问题。（针对该问题，我们将通过邮件发放该部分未正常自动补发的奖励。）</div>\n<div class=\"ace-line ace-line old-record-id-MifqdyMwpoDuSxxBSrwcRHtsndb\">✦ 修复了展示动作「睥睨山河」的特效在商店预览中不显示以及在部分机型下显示模糊的的问题。</div>\n<div class=\"ace-line ace-line old-record-id-MuFCdhkDNonIWExqD74ciIh8nbb\">✦ 修复了使用云游戏参与活动【机傀大乱斗】，会出现无法放置棋子的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WIlcdkh19oMax3xBvsZc2rZPnrg\">✦ 修复了沉浸式戏剧不朽剧目中怪物有概率受到伤害为0的问题。</div>\n<div class=\"ace-line ace-line old-record-id-IA8Zd0DdWo3LNwxfvqLc2cHLnUS\">✦ 修复了联机区域其他玩家切换行走模式，也会出现信息提示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XkG8dbgPZoUCQ5xqUQUcuAsYnYg\">✦ 修复了部分游戏分辨率设置下载具文本描述未能完整显示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-HH2kdTBuXoziaQxayvocD7NonEf\">✦ 修复了魔之匣中雷系海妖魔之楔文字错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-FmgNda2QQoqJSFxQM7oc49U9nlc\">✦ 修复了【愿望清单】系列成就的计数错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XBRZduCEHoAetgxiA2Ec0rnyngd\">✦ 修复了在部分界面中称号会遮挡名称的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Hp9BdFIRoonpiVxRmZUcFrPHnLc\">✦ 修复了微茫市部分NPC表情显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Hp9BdFIRoonpiVxRmZUcFrPHnLc\">&nbsp;</div>\n</div>\n<div data-page-id=\"IMd0d7zONoYInJxrTVEcZrWQnhd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-GlBHd6eEwoeuoNxISh4cILUineh\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月10日</strong></span><br>\n<div data-page-id=\"B0yjdiqJzo3ARWxlFjeciDKcnSj\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn8Xjiddisij6cB3nK2ptEfe\">✦ 修复了移动端吟游诗集界面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-A373dKDNto85xnxgatMcUdG6ndf\">✦ 修复了移动端竞逐委托中快速移动界面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TwicdRlbZoSDnDxZeIMcEyWInkg\">✦ 修复了吟游诗集一键领取后，有红点无法消除，需要重新启动才能消除的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TDCZdRQICoebsbx7Q35cFWoLnOf\">✦ 修复了部分狩月人月石商店中「委托手册&middot;二」限购数量未刷新的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LBB9dQ52goBWfPxQ99ZciXRSnSd\">✦ 修复了载具「银翼骑士」的商品标签显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PPiodDaGhoUOiqxg1VOc7i9Qn4b\">✦ 修复了在空中自由下落时，进入载具界面，会导致背景显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-SniHdXatXodl20xarrOcZAYEnMf\">✦ 修复了活动【机傀大乱斗】，公尚的棋局部分关卡中的解锁条件描述错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DsiIdzxgpoeUiVxL8ICcnHSBnGh\">✦ 修复了活动【夜莺飞往彩色的梦】，在进入关卡选择界面后返回，有概率出现无法正常显示活动界面的问题。</div>\n<div class=\"ace-line ace-line old-record-id-B8xOdARRtoixhtxAPZXcnMGln1b\">✦ 修复了开启自动轮次功能后，进入委托前选择委托手册时，如果选择的是【不使用】，后续自动轮次过程中则会错误的选择上次进行委托所选的委托手册而非【不使用】的问题。</div>\n<div class=\"ace-line ace-line old-record-id-YHQzdPFuGoPVx0xED83cELT2nnd\">✦ 修复了自动轮次有概率会导致游戏闪退的问题。</div>\n<div class=\"ace-line ace-line old-record-id-UueFdmn5vo0GV4xjqiRcFnKinxg\">✦ 修复了在夜航手册委托结算退出后，会出现&ldquo;历练不可用&rdquo;的问题提示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Qe3pdcxBBo5V0rxU8kUcQMPtn4c\">✦ 修复了部分任务跟踪到指定地点后，对应NPC未刷新的问题。</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnIUtiL4j9s08mdx1lOPhWBc\">&nbsp;</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-page-id=\"G8Tbd4HGmoWuUhxtvuOcVbzOnFf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NOYidiXIlob7s8xn1gFcCMvVn4b\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
-                ["language"] = "CN",
-                ["title"] = "「大风歌·下」更新修复说明",
-            },
-        },
-        ["pakInfos"] = {
-        },
-    },
     ["6989e6bf1786e23d83bb7c31"] = {
         ["UniqueId"] = "6989e6bf1786e23d83bb7c31",
         ["Channels"] = {
@@ -135,6 +111,30 @@ return {
         },
         ["StartTimestamp"] = 1761305239,
     },
+    ["69bbcd98652493760eb14d51"] = {
+        ["Title"] = "关于3月18日恶意攻击事件说明公告",
+        ["EndTimestamp"] = 1774540799,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "2",
+            ["notice_sort"] = 9000,
+        },
+        ["StartTimestamp"] = 1773915535,
+        ["UniqueId"] = "69bbcd98652493760eb14d51",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "关于3月18日恶意攻击事件说明公告",
+                ["body"] = "<div data-page-id=\"ZPAJdA5QEo69iQxtr1NcTEoxnXf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-WROBdLMLhoQRp4xAJc9cG4efnce\"><strong><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/_DNA_TC_P_情况说明_DWD_728x200_LXQ_ON.jpg\" alt=\"\" width=\"728\" height=\"200\"></strong></div>\n<div class=\"ace-line ace-line old-record-id-WROBdLMLhoQRp4xAJc9cG4efnce\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-WROBdLMLhoQRp4xAJc9cG4efnce\"><strong>致全体《二重螺旋》的狩月人：</strong></div>\n<div class=\"ace-line ace-line old-record-id-PoJ9dzL6AouYn4xBpM4cFrQ2nwc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-NGpmdD1KGokYorxRjAJcC0xInLh\">首先就昨天发生的线上事故，我们表示深深的歉意，在处理完线上出现的临时问题后，我们对事情做了复盘和整理，以下为3月18日事故时间线，向各位进行同步</div>\n<div class=\"ace-line ace-line old-record-id-Jt9ydZbhXoExDkxjOoBcdfU0nSe\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-RTxbd1WOgocrJFxarrRcKsuRnue\">17:04（UTC+8），由于需要修复线上已知的问题，推送了修复更新</div>\n<div class=\"ace-line ace-line old-record-id-VDckdvV3moiyKhxtjKxc5iTsnnh\">17:24（UTC+8），收到国际服务器线上无法登录的反馈，项目组开始检查问题原因</div>\n<div class=\"ace-line ace-line old-record-id-I4TVd9d9Do7BBHxAws2cocxCnQv\">17:28（UTC+8），收到中国大陆服务器线上无法登录的反馈，且反馈电脑内自动下载了恶意文件</div>\n<div class=\"ace-line ace-line old-record-id-QnqxdSpMzomOKNxHyoKcL2PQn2b\">17:40（UTC+8），定位到问题原因，开始着手修复和更大范围的排查工作</div>\n<div class=\"ace-line ace-line old-record-id-NLmEdAgmQo3eHHxOWVDcmRANnSd\">18:20（UTC+8），中国大陆服务器线上PC端和移动端恢复登录</div>\n<div class=\"ace-line ace-line old-record-id-EEF0d2G4AoUWjXxh5KFcsGNKnwo\">18:24（UTC+8），国际服务器线上PC端和移动端恢复登录</div>\n<div class=\"ace-line ace-line old-record-id-U4yFdA3YMofBakxswj7cANmvnkS\">18:28（UTC+8），接到用户反馈，电脑内恶意文件还存在，询问是否会影响账号安全</div>\n<div class=\"ace-line ace-line old-record-id-SufedomJ4oeSkAxbfgTcLJBpnfm\">19:38（UTC+8），线上推送更新，通过更新的方式将恶意文件进行删除</div>\n<div class=\"ace-line ace-line old-record-id-OVPsdxgOvozqQzxYCL8cUKijn5c\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-WsUpd776Moc6bJxcu25chscvnih\">本次事故的起因来自海外某地区对项目组的办公软件及线上服务器的恶意攻击，且在本次攻击后，仍然在持续进行攻击、造谣等行为，我们强烈谴责这样的行为，安全作为产品上线后非常重要的一环，此次事件，也为我们敲响了警钟</div>\n<div class=\"ace-line ace-line old-record-id-PG7JdAVsJoqzAHxbdUUc7SktnW5\">非常抱歉我们未能在事发当天向大家做出完整回应，我们希望把问题复盘完整，措施整理完全后，再发布公告给大家更详细的回应说明</div>\n<div class=\"ace-line ace-line old-record-id-Bl4IdHJqeombsIxCRcAceUU2nNg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-UGDedSfFDoYDc3x6ieBc3JehnBd\">为了更好的应对未来恶意攻击事件的再次发生，项目组做了以下措施：</div>\n<ol class=\"list-number1\" start=\"1\">\n<li class=\"ace-line ace-line old-record-id-PsSddZT5qokZDZxGKAkcD4gZnXc\" data-list=\"number\">\n<div><strong>增加实时报警、监控措施：</strong>我们已部署对核心文件系统的实时监控与篡改告警系统，任何对游戏资源的异常访问或修改企图，都会触发实时警报，确保我们能在第一时间发现并阻断异常行为</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-DcEad6PazofnN2xsbYkc1Z5anxc\" data-list=\"number\">\n<div><strong>网络与访问最小化管控：</strong>对所有外部访问敏感文件的端口和路径进行彻底梳理与限制，遵循&ldquo;最小必要&rdquo;原则，关闭了所有非必需的访问通道，从根本上提升文件的保密性与存储安全性</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-LZt4dKKDWo4b5Uxa7SycIR1bnbd\" data-list=\"number\">\n<div><strong>外部访问敏感文件端口收缩：</strong>对所有外部访问端口进行彻底收敛，同样严格遵循&ldquo;最小必要&rdquo;的网络安全原则，关闭了所有非必需的通信端口与访问路径，为核心文件与敏感资产的存储环境构建更坚固的边界防线</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-YEa1duR5do1PGtxX5nWcFebkn5b\" data-list=\"number\">\n<div>\n<div data-lark-html-role=\"root\">全服发放补偿</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"47\"><span class=\"text-only\">a. 补偿内容：委托手册&middot;三*5、璀璨沙漏*10</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"49\"><span class=\"text-only\">b. 发放时间：2026年3月19日18:00（</span><span class=\"text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline\">UTC</span><span class=\"text-only\">+8）</span></span></div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"53\"><span class=\"text-only\">c. 领取条件：解锁【邮件】功能，邮件领取有效时间至2026年3月26日23:59（UTC+8）</span></span></div>\n</div>\n</li>\n</ol>\n<div class=\"ace-line ace-line old-record-id-AEMGdo4UCoBaExxgxoGcGJzJnUU\">对于本次事件，给全球玩家造成的影响以及担忧，项目组深表歉意，我们深知道歉和补偿无法立刻修补这一份信任的缺口，所以恳请各位玩家能够再给与机会，我们将持续、稳定的服务每一位玩家。如果对于本次事故造成的影响还有任何疑问，可以通过客服与我们沟通，我们将持续为大家解决问题。</div>\n<div class=\"ace-line ace-line old-record-id-P98sde87aoJ75qxa0gIc7VdFnOd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-AwM3dEiqboFgEixA9cEcGrRinmb\">如有任何问题，请大家随时与我们进行反馈：<a href=\"https://kf.yingxiong.com/kf2.0/user-center?game_id=2277&amp;lang=zh\">&gt;&gt;联系客服&lt;&lt;</a></div>\n<div class=\"ace-line ace-line old-record-id-AwM3dEiqboFgEixA9cEcGrRinmb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-AwM3dEiqboFgEixA9cEcGrRinmb\">\n<div data-page-id=\"ZPAJdA5QEo69iQxtr1NcTEoxnXf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-V5qSdO1t2ooZpfxU2svc0cGinue\">《二重螺旋》运营团队 敬上</div>\n</div>\n</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "关于3月18日恶意攻击事件说明公告",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
     ["6949efa080831a003d6c4af4"] = {
         ["UniqueId"] = "6949efa080831a003d6c4af4",
         ["Channels"] = {
@@ -157,7 +157,53 @@ return {
         },
         ["StartTimestamp"] = 1766453135,
     },
-    ["Version"] = 619,
+    ["69baa7fe652493760eb14c08"] = {
+        ["Title"] = "「大风歌·下」更新修复说明",
+        ["EndTimestamp"] = 1775654775,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "2",
+            ["notice_sort"] = 8000,
+        },
+        ["StartTimestamp"] = 1773840372,
+        ["UniqueId"] = "69baa7fe652493760eb14c08",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "「大风歌·下」更新修复说明",
+                ["body"] = "<div data-lark-html-role=\"root\">\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/99-更新修复说明.png\" alt=\"\" width=\"728\" height=\"200\"></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">亲爱的狩月人：</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">为了保证更好的游戏体验，《二重螺旋》将持续对游戏内问题进行修复，修复期间给各位狩月人带来的不便，敬请见谅，再次感谢大家的支持与理解。</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">&nbsp;</div>\n<div data-zone-id=\"0\" data-line-index=\"1\" data-line=\"true\">\n<div data-lark-html-role=\"root\"><span style=\"color: rgb(248, 153, 52); font-size: 14pt;\"><strong><span class=\"text-only\" data-eleid=\"3\">▍已知问题</span></strong> </span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"5\">以下为当前版本中部分已知问题，更多问题我们正在努力积极的处理中，在确认完处理方案后我们会陆续公布更多的已知的问题说明。</span></div>\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\">\n<div data-lark-html-role=\"root\"><span class=\"text-only\" data-eleid=\"3\">✧ 在当前版本中，进行【忘川照影】任务时有概率出现船只消失和花苞无法击破的问题，该问题将于近期更新中修复。如您现在遇到了该问题，可联系客服进行处理。</span></div>\n<div data-lark-html-role=\"root\">&nbsp;</div>\n<div data-lark-html-role=\"root\">&nbsp;<span class=\"text-only\" data-eleid=\"7\">✧ 在当前版本中，解除坐骑骑乘状态后，角色冲刺跑步期间转身，有概率出现不播放转身动画的问题，该问题将于后续版本更新中修复。</span></div>\n</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"3\" data-line=\"true\">\n<div data-page-id=\"Yadpdnm4PoNBohxfyVVcop1gndg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Bw5SdCNOvoTgLXxIwaOceFounyc\">\n<div data-page-id=\"MYJOdAFkso6TEMxPB9Mcq0PvnJh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<h3 class=\"heading-3 ace-line old-record-id-SlGqdhzovoknPKxKuo0cAX94nXf\"><span style=\"color: rgb(248, 153, 52);\">▍更新内容说明</span></h3>\n<div data-page-id=\"G1uxdPBMaoXKyrxo1tfcwX0Fn5d\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-TAZpdXMc5oXx57x3AaPc3XcSnkf\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年3月18日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-K9GvdUn4CoGJ3FxPqs7cQZIdnBg\">✦ 修复了在怪物在死亡后攻击提升和降低的效果未消失，导致同类怪物的攻击力异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-YN0Zdo1APogF5SxPM0CcPLwSn8Z\">✦ 修复了在部分移动端机型下近景的场景模型显示异常模糊的问题。</div>\n<div class=\"ace-line ace-line old-record-id-IYkEdlFkwoRGbIx2qRQcz5yFnqb\">✦ 修复了敲击醒世碑任务有概率无法进行互动的问题。</div>\n<div class=\"ace-line ace-line old-record-id-IYkEdlFkwoRGbIx2qRQcz5yFnqb\">&nbsp;</div>\n</div>\n<div data-page-id=\"GKXed6jPPoP14WxJkmOcmwcrnlf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Tl7pdtfgUoxAaTxrpxGcxYlsn4c\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年3月05日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-PTNvdFtdXoVIgKxoJSocmHg8nud\">✦ 修复了在部分显卡设备下，水面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-EXNJdHzkPoCCPzxWn9fc5YSnnjd\">✦ 修复了在使用手柄的情况下，自动轮次在选择委托密函时未聚焦选项的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PtDRdryoDoknwbxhMtxc3gOPnob\">✦ 修复了【西比尔】通过【指尖风暴】召唤的【召唤物&middot;紊乱雷球】的传递伤害来源不正确的问题。</div>\n<div class=\"ace-line ace-line old-record-id-SOfQdkDPoocx21xzYZQcNF9ZnNc\">✦ 修复了部分情况下会出现角色在集齐思绪片段后无法正常解锁的问题。</div>\n<div class=\"ace-line ace-line old-record-id-ApdNdAuIloviIRxueqzcfuR6nSf\">✦ 修复了煜明在部分情况下的穿模问题。</div>\n<div class=\"ace-line ace-line old-record-id-IdYfd3BZooAdM7xh10rcZFkunHg\">✦ 优化了部分界面的换行显示效果。</div>\n<div class=\"ace-line ace-line old-record-id-IdYfd3BZooAdM7xh10rcZFkunHg\">&nbsp;</div>\n</div>\n<div data-page-id=\"UY7xdqLJeolxvGxd0AjcTnt2nCc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-N14Ud559FoFY67xteqVc8NjKnFe\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月27日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-HIeFdQO34o4iXixVO6xcmTr5nzg\">✦ 新增头像框「糖福禄」，获取全套【糖福禄】系列武器装扮可免费领取。</div>\n<div class=\"ace-line ace-line old-record-id-QdtvdyZGXoMAL3xoGCac2XoMn7f\">✦ 修复了进行【忘川照影】任务时有概率出现船只消失和花苞无法击破的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OoCldC6lUopDl5xdwYkcLWPnnTg\">✦ 修复了【声名】系统界面红点显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-OVi6d6cCOoFSxCxb7B4c7Nmmnec\">✦ 修复了部分地图场景中模型缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NVTGdcI1ZoSrHHxHRS3cOnq2nfd\">✦ 修复了「魔王头套」显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NVTGdcI1ZoSrHHxHRS3cOnq2nfd\">&nbsp;</div>\n</div>\n<div data-page-id=\"LynDdoshio2BFDxKWpqcnsXMnlb\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-Ucg2dYcMaotkjAxoxSFcw0p9nLb\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月20日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-VJO1dnUJioDTmZxmSKTcHjvwnnd\">✦ 修复了限时委托中【掠影 失序的应天侍】奖励掉落预览错误的问题，正确奖励掉落预览为【羽蛇之决断】，实际掉落不受问题影响。</div>\n<div class=\"ace-line ace-line old-record-id-O2R0dTPYfoksSexB9FfcL5QUnWb\">✦ 修复了部分本地化文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-O2R0dTPYfoksSexB9FfcL5QUnWb\">&nbsp;</div>\n</div>\n<div data-page-id=\"QXMRdN9PVoeBKSxAqKxcnWzcnnd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-LBuHdSxoPoRbm7xumk2c10e2nWf\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月13日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-BYwqdKlNjocQRaxXV71c7Ggin3g\">✦ 优化了夜航手册LV60【舍身 芳烬秽兽】、【掠影 失序的应天侍】、【霹雳 魁蕊秽兽】副本中号令者的刷新逻辑，优化后，号令者将开局在距离玩家较近的位置刷新。</div>\n<div class=\"ace-line ace-line old-record-id-TfOxd8FZAoOs4Dxjox2cmSWdn5b\">✦ 修复了一定情况下，钓鱼额外奖励无法触发的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TfOxd8FZAoOs4Dxjox2cmSWdn5b\">\n<div data-page-id=\"QXMRdN9PVoeBKSxAqKxcnWzcnnd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-F8iKdfbcdokmFXxx3AMcQmksnAd\">✦ 修复了异化冥犬之纠缠&middot;攻势增幅消耗素材异常的问题。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-Fz4pdp3Q3ozrfsxY9XQcV3jhnEd\">✦ 修复了部分本地化文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Fz4pdp3Q3ozrfsxY9XQcV3jhnEd\">&nbsp;</div>\n</div>\n<div data-page-id=\"Y6S4d6AKXocqorxBvancUD8Xnqg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnoe1gBtBwxlzSiKTqLyEIHb\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月12日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnqufwm1Zso0oV6b3hNe7yCT\">✦ 修复了查看其他狩月人信息页面时有概率显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnODKDj1zc5DH5XeTMawsxCc\">✦ 修复了止流技能特效会影响联机中其他狩月人的问题以及其特效有概率发生偏移的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn7VvzkJ2GNc2d17a1dkrLqu\">✦ 修复了止流在穿戴「携金宴夜」释放技能时语音有概率会被打断的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnJanXoIyKwFQMantNgAHxj0\">✦ 修复了形象试玩活动【山止川行】中止流的发型错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnpbJWJ1pmSQ3yaFR8zPQKqc\">✦ 修复了「昨日匆匆」和「墨玉韶华」系列形象的材质在部分场景下显示的颜色会偏黑的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnaUKMrYnbMIKU5jnVNaf7Uf\">✦ 修复了重复多次打开【重铸】界面会出现界面显示不全的问题。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn4fYvcuxAZrOdxo8V1PUBfE\">✦ 修复了同时铸造多个消耗相同的魔之楔后进行取消锻造，在取消第二个魔之楔时会取消失败的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WRyydwOFDo3fxVx1t82cBYycnQd\">✦ 修复了在对部分部位的装饰进行染色后，进入装饰预览界面时，相关装饰的颜色会显示为默认颜色的问题。</div>\n<div class=\"ace-line ace-line old-record-id-NHfIdHPrHoM6wXxpjEXcsRazni6\">✦ 修复了击败「烛阴」后无法完成活动【华胥香识记】对应任务的问题。</div>\n<div class=\"ace-line ace-line old-record-id-EdcbdldWroDWNNxhHl2cUzAxnze\">✦ 修复了海尔法装配形象「昨日匆匆」时，「背部装饰&middot;下」部位装饰消失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TnMbdf1x8o4Nepxt73ycvuvSnwd\">✦ 修复了部分提示文本缺失的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TnMbdf1x8o4Nepxt73ycvuvSnwd\">&nbsp;</div>\n</div>\n<div data-page-id=\"BU6wdHsTLo3Tbqxe8wZcrVQYn6b\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NpNBdol6Yor7uPxlqUEcaVsMnBo\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月11日</strong></span></div>\n<div class=\"ace-line ace-line old-record-id-S3iwdDYgvoWXgRxMt9bcx7pVnmc\">✦ 优化调整了自动轮次各环节的倒计时时间，从原先10秒调整为3秒。</div>\n<div class=\"ace-line ace-line old-record-id-WL4QduyWRoOmybxvk9mcboaXnOe\">✦ 修复了在密函结算时掉线，系统自动补发奖励有极低概率未正常发放的问题。（针对该问题，我们将通过邮件发放该部分未正常自动补发的奖励。）</div>\n<div class=\"ace-line ace-line old-record-id-MifqdyMwpoDuSxxBSrwcRHtsndb\">✦ 修复了展示动作「睥睨山河」的特效在商店预览中不显示以及在部分机型下显示模糊的的问题。</div>\n<div class=\"ace-line ace-line old-record-id-MuFCdhkDNonIWExqD74ciIh8nbb\">✦ 修复了使用云游戏参与活动【机傀大乱斗】，会出现无法放置棋子的问题。</div>\n<div class=\"ace-line ace-line old-record-id-WIlcdkh19oMax3xBvsZc2rZPnrg\">✦ 修复了沉浸式戏剧不朽剧目中怪物有概率受到伤害为0的问题。</div>\n<div class=\"ace-line ace-line old-record-id-IA8Zd0DdWo3LNwxfvqLc2cHLnUS\">✦ 修复了联机区域其他玩家切换行走模式，也会出现信息提示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XkG8dbgPZoUCQ5xqUQUcuAsYnYg\">✦ 修复了部分游戏分辨率设置下载具文本描述未能完整显示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-HH2kdTBuXoziaQxayvocD7NonEf\">✦ 修复了魔之匣中雷系海妖魔之楔文字错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-FmgNda2QQoqJSFxQM7oc49U9nlc\">✦ 修复了【愿望清单】系列成就的计数错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-XBRZduCEHoAetgxiA2Ec0rnyngd\">✦ 修复了在部分界面中称号会遮挡名称的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Hp9BdFIRoonpiVxRmZUcFrPHnLc\">✦ 修复了微茫市部分NPC表情显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Hp9BdFIRoonpiVxRmZUcFrPHnLc\">&nbsp;</div>\n</div>\n<div data-page-id=\"IMd0d7zONoYInJxrTVEcZrWQnhd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-GlBHd6eEwoeuoNxISh4cILUineh\"><span style=\"color: rgb(248, 153, 52);\"><strong>2026年2月10日</strong></span><br>\n<div data-page-id=\"B0yjdiqJzo3ARWxlFjeciDKcnSj\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn8Xjiddisij6cB3nK2ptEfe\">✦ 修复了移动端吟游诗集界面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-A373dKDNto85xnxgatMcUdG6ndf\">✦ 修复了移动端竞逐委托中快速移动界面显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TwicdRlbZoSDnDxZeIMcEyWInkg\">✦ 修复了吟游诗集一键领取后，有红点无法消除，需要重新启动才能消除的问题。</div>\n<div class=\"ace-line ace-line old-record-id-TDCZdRQICoebsbx7Q35cFWoLnOf\">✦ 修复了部分狩月人月石商店中「委托手册&middot;二」限购数量未刷新的问题。</div>\n<div class=\"ace-line ace-line old-record-id-LBB9dQ52goBWfPxQ99ZciXRSnSd\">✦ 修复了载具「银翼骑士」的商品标签显示错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-PPiodDaGhoUOiqxg1VOc7i9Qn4b\">✦ 修复了在空中自由下落时，进入载具界面，会导致背景显示异常的问题。</div>\n<div class=\"ace-line ace-line old-record-id-SniHdXatXodl20xarrOcZAYEnMf\">✦ 修复了活动【机傀大乱斗】，公尚的棋局部分关卡中的解锁条件描述错误的问题。</div>\n<div class=\"ace-line ace-line old-record-id-DsiIdzxgpoeUiVxL8ICcnHSBnGh\">✦ 修复了活动【夜莺飞往彩色的梦】，在进入关卡选择界面后返回，有概率出现无法正常显示活动界面的问题。</div>\n<div class=\"ace-line ace-line old-record-id-B8xOdARRtoixhtxAPZXcnMGln1b\">✦ 修复了开启自动轮次功能后，进入委托前选择委托手册时，如果选择的是【不使用】，后续自动轮次过程中则会错误的选择上次进行委托所选的委托手册而非【不使用】的问题。</div>\n<div class=\"ace-line ace-line old-record-id-YHQzdPFuGoPVx0xED83cELT2nnd\">✦ 修复了自动轮次有概率会导致游戏闪退的问题。</div>\n<div class=\"ace-line ace-line old-record-id-UueFdmn5vo0GV4xjqiRcFnKinxg\">✦ 修复了在夜航手册委托结算退出后，会出现&ldquo;历练不可用&rdquo;的问题提示的问题。</div>\n<div class=\"ace-line ace-line old-record-id-Qe3pdcxBBo5V0rxU8kUcQMPtn4c\">✦ 修复了部分任务跟踪到指定地点后，对应NPC未刷新的问题。</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnIUtiL4j9s08mdx1lOPhWBc\">&nbsp;</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">\n<div data-page-id=\"G8Tbd4HGmoWuUhxtvuOcVbzOnFf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-NOYidiXIlob7s8xn1gFcCMvVn4b\">《二重螺旋》运营团队</div>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"16\" data-line=\"true\">&nbsp;</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "「大风歌·下」更新修复说明",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
+    ["6989e5f11786e23d83bb7c2e"] = {
+        ["UniqueId"] = "6989e5f11786e23d83bb7c2e",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["language"] = "CN",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200-宴夜诉平生-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"UKKIdHw0koOLCCxcYfIcocKKnSf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnsmN1f0uICqJnOM8T6E3AsC\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">2026年2月10日更新后 ~ 2026年4月6日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">\n<div data-page-id=\"UKKIdHw0koOLCCxcYfIcocKKnSf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnQQM5CyMCQ6Xg44mWB5NVTe\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnohr4u8CoZqvpjqvJfgD9Pb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWbtuHup7wxIZqt7nH7HoQg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQIrfP6xtai28ZhqsgVRZed\"><strong>【寻觅说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnxrSs0FNRwcQLgBT4bMLrsc\">● 参与本期寻觅有概率获得「止流-携金宴夜」「虹色棱镜」等形象与道具。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnSMcql4xhsBnLrGO8siZRY8\">● 「虹色棱镜」可在本期【限时兑换】中兑换本期【宴夜诉平生】系列限定外观。本期系列包含以下内容：角色形象、武器形象、光晕、脚步特效、角色武器装饰、展示动作、载具、胜利动作等。</div>\n<div class=\"ace-line ace-line old-record-id-RvDtdwfmooVHj1xZOo5cJekVndF\">● 虹色棱镜兑换限时新增可兑换内容：「载具：拟真太皓」，获取「止流-携金宴夜」后解锁兑换，在搭乘「载具：拟真太皓」时，飞行速度提高50%，无需持有声明许可也能进行飞行。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn6wveXPcX3d7vqc90yKd03q\">● 本期限定形象「止流-携金宴夜」仅可在【宴夜诉平生】与「限时兑换」中获得，【宴夜诉平生】活动结束后，在「限时兑换」中仍会存在一段时间，活动时间结束后暂无获取途径。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnPR6XD7V6BYej3fOb0mDUf\">● 活动期间本期限定形象「止流-携金宴夜」将开启【山止川行】时装试玩活动，完成试用关卡即可领取奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9MJbcuxmRLncIS9rjLz26c\">● 在本期【宴夜诉平生】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【宴夜诉平生】中进行寻觅，【宴夜诉平生】活动结束后将转换为「纯白沙漏」。</div>\n<div class=\"ace-line ace-line old-record-id-doxcniRj9Na57GKPJUXJXTojRjg\"><span style=\"color: rgb(77, 77, 77);\">*更多活动详细内容，请前往游戏内「万华」界面查看。</span></div>\n</div>\n</div>\n</div>",
+                ["title1"] = "【宴夜诉平生】活动限定万华开启！",
+                ["title"] = "【宴夜诉平生】活动限定万华开启！",
+            },
+        },
+        ["Title"] = "【宴夜诉平生】活动限定万华开启！",
+        ["EndTimestamp"] = 1775448000,
+        ["ClientOnly"] = {
+            ["noticeType"] = "1,2",
+            ["UIStyle"] = "1",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 800,
+        },
+        ["StartTimestamp"] = 1770609600,
+    },
+    ["Version"] = 626,
     ["694138dbdc967019820482f0"] = {
         ["UniqueId"] = "694138dbdc967019820482f0",
         ["Channels"] = "",
@@ -179,76 +225,6 @@ return {
             ["notice_sort"] = 50,
         },
         ["StartTimestamp"] = 1765882067,
-    },
-    ["6989e62b1786e23d83bb7c2f"] = {
-        ["UniqueId"] = "6989e62b1786e23d83bb7c2f",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200-元亨利贞-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"AJsVdQ8AOo3NPBxntlOcbXWJnWd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnvWNW2p88TIuqC75WntjNqe\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-TG4xdKpVco07AdxyrCBc3RS2nOg\">2026年2月10日更新后 ~ 2026年3月10日 05:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-TG4xdKpVco07AdxyrCBc3RS2nOg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-TG4xdKpVco07AdxyrCBc3RS2nOg\">\n<div data-page-id=\"AJsVdQ8AOo3NPBxntlOcbXWJnWd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnIomPUkshFS1ET6maeQfDyc\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnwXBpzFvJ4D01UyTmCe4Nag\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"ace-line ace-line old-record-id-doxcnaJoGGlpeMOreaqm600ZuVg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn8QL4WPOokmZX9Io4JCjhF4\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnrLLi3wEALsLDmOO6Ud8Bad\">「华彩沙漏」*10</div>\n<div class=\"ace-line ace-line old-record-id-doxcnaqHenNpiPE11SkvUCwO1Gg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcntm6T02wyZF5QiA7RGC1BIc\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcns9OKxYcaSw7AhQYmIyYGEc\">&bull; 活动开启期间，狩月人累计登录七天即可解锁全部奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnW9uRvfkeMwZOybQP70XSBh\">&bull; 每日登录游戏，即可在活动界面领取当日奖励内容。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnvkwYS1BNNW99kiZs2R3Jhc\">&bull; 当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。</div>\n</div>\n</div>\n</div>",
-                ["title1"] = "【元亨利贞】累计签到领取「华彩沙漏」*10",
-                ["title"] = "【元亨利贞】累计签到领取「华彩沙漏」*10",
-            },
-        },
-        ["Title"] = "【元亨利贞】累计签到领取「华彩沙漏」*1",
-        ["EndTimestamp"] = 1773028800,
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 700,
-        },
-        ["StartTimestamp"] = 1770609600,
-    },
-    ["698ed1f91786e23d83bbc1e5"] = {
-        ["Title"] = "周边上新：大风歌版本商品",
-        ["EndTimestamp"] = 1772701200,
-        ["ClientOnly"] = {
-            ["UIStyle"] = "0",
-            ["noticeType"] = "1,2",
-            ["TypeTag"] = "3",
-            ["notice_sort"] = 9500,
-        },
-        ["StartTimestamp"] = 1770973200,
-        ["UniqueId"] = "698ed1f91786e23d83bbc1e5",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["noticeImageURL"] = "http://erchongluoxuan.tmall.com",
-                ["title"] = "周边上新：大风歌版本商品",
-                ["noticeImage"] = "http://pan01-cdn-dna-ali.shyxhy.com/upload/游戏端内banner-1478×1000.jpg",
-            },
-        },
-        ["pakInfos"] = {
-        },
-    },
-    ["69a56e7e1786e23d83bbd1fd"] = {
-        ["Title"] = "【委托密函】煜明委托密函轮换说明",
-        ["EndTimestamp"] = 1773089999,
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["noticeType"] = "1,2",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 1200,
-        },
-        ["StartTimestamp"] = 1772449393,
-        ["UniqueId"] = "69a56e7e1786e23d83bbd1fd",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["title1"] = "【委托密函】煜明委托密函轮换说明",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/密函轮换预告_728x200-煜明-简中.jpg\" alt=\"\"></p>\n<div data-page-id=\"MAL3dnlSLoiGA3xedRRcp39enQh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn0Sv3e6SONN6iu9lWZjlnIg\">委托密函将于2026年3月10日 10:00后进行轮换，以下为轮换规则。</div>\n<div class=\"ace-line ace-line old-record-id-SpSVdg7FNoyRFqx3POIc0SMbnsS\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Q0j0dACPtoMwUxxrwVYclUtYnqZ\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnZHxpoPpm7BZE1TtgQDkWVc\">2026年3月10日 10:00后：</div>\n<div class=\"ace-line ace-line old-record-id-doxcn3YclrltLPjCFDQlaYWhjfh\">&bull;<span style=\"color: rgb(136, 16, 216);\"><strong>「密函：煜明」「密函：罪愆的逆鳞」</strong></span>将替换<span style=\"color: rgb(78, 147, 243);\"><strong>「密函：止流」「密函：万古的诀别」</strong></span>进入沉浸式戏剧的限时奖励中。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnZRLh8cHIlIhHF5apbzLzRd\">&bull;<span style=\"color: rgb(78, 147, 243);\"><strong>「密函：止流」</strong></span>将替换<span style=\"color: rgb(218, 42, 74);\"><strong>「密函：松露与榛子」</strong></span>加入梦魇残声挑战奖励中；</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGwgyRJurHO523xechurUkc\">&bull;<span style=\"color: rgb(78, 147, 243);\"><strong>「密函：万古的诀别」</strong></span>将替换<span style=\"color: rgb(218, 42, 74);\"><strong>「密函：</strong><strong>弧光百劫</strong><strong>」</strong></span>加入梦魇残声挑战奖励中；</div>\n<div class=\"ace-line ace-line old-record-id-doxcnPEAnVrtjsOvyoBSyCtPjtg\">&bull;<span style=\"color: rgb(78, 147, 243);\"><strong>「密函：三角缪斯」</strong></span>将替换<span style=\"color: rgb(218, 42, 74);\"><strong>「密函：破晓赞美诗」</strong></span>加入梦魇残声挑战奖励中；</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9Zr4H4JlpplkIc2KP8IEof\">&bull;<span style=\"color: rgb(218, 42, 74);\"><strong>「</strong><strong>密函：</strong><strong>松露与榛子」「密函：弧光百</strong><strong>劫</strong><strong>」</strong><strong>「密函：破晓赞美诗」</strong></span>将永久加入【委托密函】商店兑换中。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnAyQGvg77vkgaiohtShGLxf\">\n<div data-page-id=\"MAL3dnlSLoiGA3xedRRcp39enQh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\" old-record-id-doxcnAyQGvg77vkgaiohtShGLxf\">\n<div data-page-id=\"MAL3dnlSLoiGA3xedRRcp39enQh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnAyQGvg77vkgaiohtShGLxf\">特别提醒：本次梦魇残声奖励轮换时间为3月10日（周二），更新后<strong>不会重置</strong>梦魇残声周奖励次数，若想获取<span style=\"color: rgb(78, 147, 243);\"><strong>「密函：止流」「密函：万古的诀别」「密函：三角缪斯」</strong></span>的狩月人，请根据自身需求安排游玩挑战。</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9EXflxZmP0jzXy2jtO5dzb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcntE874pqPwiK0dI6w6xkwSc\">随着本次沉浸式戏剧更新，剧目中的【舞台伴奏】与【推荐属性】也会一同进行更新。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQjC5vnRUD0InbQszyTJChe\">本期推荐属性：<span style=\"color: rgb(218, 42, 74);\">火属性</span>、<span style=\"color: rgb(136, 16, 216);\">雷属性</span></div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">本期【舞台伴奏】将会轮换一批新的&ldquo;伴奏&rdquo;，以下为【不朽剧目】中部分&ldquo;伴奏&rdquo;：</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">\n<div data-page-id=\"MAL3dnlSLoiGA3xedRRcp39enQh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnuVtZXHHUGC2E8hm54BZwle\"><span style=\"color: rgb(77, 77, 77);\">*更多【舞台伴奏】可在版本更新后进入游戏内查看。</span></div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">\n<div data-page-id=\"MAL3dnlSLoiGA3xedRRcp39enQh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-OZB6dTpXUoJ0BLxYDTRcrkFvnTe\">●【抉择变奏：元素契约】：敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(248, 153, 52);\">克制</span>属性伤害提高<span style=\"color: rgb(248, 153, 52);\">400%</span>，<span style=\"color: rgb(218, 42, 74);\">非克制</span>属性伤害降低<span style=\"color: rgb(218, 42, 74);\">50%</span>。</div>\n<div class=\"ace-line ace-line old-record-id-Esl9dDmsCofoFVxyhX1c8Oelnie\">●【活跃急板：再聚首】：友方单位施放战技或终结技时，为自身和队友附加技能威力提高50.0%，持续10秒，附加自不同单位的效果可叠加。</div>\n<div class=\"ace-line ace-line old-record-id-KlZ7dCc1aoRSLWxGcQOcTDESnjg\">●【激昂行板：挑战者的勇气】：友方单位每造成5次伤害，获得造成的伤害提高10.0%效果，持续15秒，最多叠加9层。</div>\n<div class=\"ace-line ace-line old-record-id-PtUadmTQzoOHPvx6xkncGORMnQw\">●【防御变奏：精神淬炼】：敌方单位受到的伤害降低80.0%，每次受到技能伤害时，伤害降低幅度降低4.0%。</div>\n<div class=\"ace-line ace-line old-record-id-Pfped9nmjoS1QtxMVJtcpArNnsh\">●【护盾变奏：黯淡的不死者】：敌方单位每3秒恢复最大护盾30.0%的护盾，带有属性额外触发效果时，暂停恢复。</div>\n<div class=\"ace-line ace-line old-record-id-KYcUdK0gloxhoyxIsQ2cJnh3nkr\">●【协调柔板：军火帝皇】：友方单位造成的持续伤害降低50.0%，造成的武器伤害提高50.0%。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGKt0it4noaf7efKY2O8QXc\">&nbsp;</div>\n</div>",
-                ["language"] = "CN",
-                ["title"] = "【委托密函】煜明委托密函轮换说明",
-            },
-        },
-        ["pakInfos"] = {
-        },
     },
     ["698a9b681786e23d83bb7c66"] = {
         ["UniqueId"] = "698a9b681786e23d83bb7c66",
@@ -296,58 +272,6 @@ return {
         },
         ["StartTimestamp"] = 1766058139,
     },
-    ["69a7970313b1175eceb8f47d"] = {
-        ["Title"] = "TapTap独家活动",
-        ["EndTimestamp"] = 1773158399,
-        ["ClientOnly"] = {
-            ["UIStyle"] = "1",
-            ["noticeType"] = "1,2",
-            ["TypeTag"] = "3",
-            ["notice_sort"] = 9000,
-        },
-        ["StartTimestamp"] = 1772590843,
-        ["UniqueId"] = "69a7970313b1175eceb8f47d",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["title1"] = "TapTap独家活动",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/1.2Tap.jpg\" alt=\"\" width=\"720\" height=\"200\"></p>\n<p>TapTap独家活动已开启，参与活动赢华为Mate 80手机、索尼PS5等惊喜好礼!！<br>【点击&ldquo;<a href=\"https://l.taptap.cn/BJXf15Nx?channel=rep-rep_ho6jaloayis_h5url7262\">参与活动</a>&rdquo;即可参与，丰富好礼等你拿！】</p>",
-                ["language"] = "CN",
-                ["title"] = "TapTap独家活动",
-            },
-        },
-        ["pakInfos"] = {
-            [1] = {
-                ["code"] = "1.0",
-                ["name"] = "(56_0)IOS-官方",
-            },
-            [2] = {
-                ["code"] = "12.0",
-                ["name"] = "(237_287)PC-Tap",
-            },
-            [3] = {
-                ["code"] = "4.0",
-                ["name"] = "(18_167)安卓-Tap",
-            },
-            [4] = {
-                ["code"] = "2.0",
-                ["name"] = "(18_0)安卓-官方",
-            },
-            [5] = {
-                ["code"] = "15.0",
-                ["name"] = "(300_0)安卓-云游戏",
-            },
-            [6] = {
-                ["code"] = "22.0",
-                ["name"] = "(314_0)PC-云游戏",
-            },
-            [7] = {
-                ["code"] = "8.0",
-                ["name"] = "(237_259)PC-官方",
-            },
-        },
-    },
     ["69a1a1651786e23d83bbce51"] = {
         ["Title"] = "违规行为处罚公告",
         ["EndTimestamp"] = 1801489889,
@@ -372,28 +296,6 @@ return {
         ["pakInfos"] = {
         },
     },
-    ["6989e5f11786e23d83bb7c2e"] = {
-        ["UniqueId"] = "6989e5f11786e23d83bb7c2e",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200-宴夜诉平生-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"UKKIdHw0koOLCCxcYfIcocKKnSf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnsmN1f0uICqJnOM8T6E3AsC\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">2026年2月10日更新后 ~ 2026年4月6日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Ud2sdYmyNou4FXxXEEUcHjS2ngf\">\n<div data-page-id=\"UKKIdHw0koOLCCxcYfIcocKKnSf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnQQM5CyMCQ6Xg44mWB5NVTe\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnohr4u8CoZqvpjqvJfgD9Pb\">完成夜航篇剧情【前往少女所说的宅邸】并开启【万华】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWbtuHup7wxIZqt7nH7HoQg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQIrfP6xtai28ZhqsgVRZed\"><strong>【寻觅说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnxrSs0FNRwcQLgBT4bMLrsc\">● 参与本期寻觅有概率获得「止流-携金宴夜」「虹色棱镜」等形象与道具。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnSMcql4xhsBnLrGO8siZRY8\">● 「虹色棱镜」可在本期【限时兑换】中兑换本期【宴夜诉平生】系列限定外观。本期系列包含以下内容：角色形象、武器形象、光晕、脚步特效、角色武器装饰、展示动作、载具、胜利动作等。</div>\n<div class=\"ace-line ace-line old-record-id-RvDtdwfmooVHj1xZOo5cJekVndF\">● 虹色棱镜兑换限时新增可兑换内容：「载具：拟真太皓」，获取「止流-携金宴夜」后解锁兑换，在搭乘「载具：拟真太皓」时，飞行速度提高50%，无需持有声明许可也能进行飞行。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn6wveXPcX3d7vqc90yKd03q\">● 本期限定形象「止流-携金宴夜」仅可在【宴夜诉平生】与「限时兑换」中获得，【宴夜诉平生】活动结束后，在「限时兑换」中仍会存在一段时间，活动时间结束后暂无获取途径。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnPR6XD7V6BYej3fOb0mDUf\">● 活动期间本期限定形象「止流-携金宴夜」将开启【山止川行】时装试玩活动，完成试用关卡即可领取奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9MJbcuxmRLncIS9rjLz26c\">● 在本期【宴夜诉平生】累计寻觅一定次数之后，可以在活动页面领取「华彩沙漏&middot;限时」道具。「华彩沙漏&middot;限时」可用于在【宴夜诉平生】中进行寻觅，【宴夜诉平生】活动结束后将转换为「纯白沙漏」。</div>\n<div class=\"ace-line ace-line old-record-id-doxcniRj9Na57GKPJUXJXTojRjg\"><span style=\"color: rgb(77, 77, 77);\">*更多活动详细内容，请前往游戏内「万华」界面查看。</span></div>\n</div>\n</div>\n</div>",
-                ["title1"] = "【宴夜诉平生】活动限定万华开启！",
-                ["title"] = "【宴夜诉平生】活动限定万华开启！",
-            },
-        },
-        ["Title"] = "【宴夜诉平生】活动限定万华开启！",
-        ["EndTimestamp"] = 1775448000,
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 800,
-        },
-        ["StartTimestamp"] = 1770609600,
-    },
     ["698568e51786e23d83bb41d3"] = {
         ["UniqueId"] = "698568e51786e23d83bb41d3",
         ["Channels"] = {
@@ -415,27 +317,5 @@ return {
             ["notice_sort"] = 1,
         },
         ["StartTimestamp"] = 1770757200,
-    },
-    ["6989e6a71786e23d83bb7c30"] = {
-        ["UniqueId"] = "6989e6a71786e23d83bb7c30",
-        ["Channels"] = {
-        },
-        ["Content"] = {
-            [1] = {
-                ["language"] = "CN",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_沉浸式戏剧-止流-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"Nr8Td4HxhofjHZxftHTcXgbmnlg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnYVLqRImQFNMRFhsP68AGfc\">沉浸式戏剧已开启，踏上舞台，演绎属于你的剧目。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnQWQWqTAJ2XhZTYouIo3O8e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnfHBeNaDIWWh8bh4vJeOSwc\"><strong>【开启条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn5piCDgpG8mI0wzxeiiKa0d\">完成泊暮篇剧情【审判日】与特殊支线任务【全新戏剧】。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5piCDgpG8mI0wzxeiiKa0d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5piCDgpG8mI0wzxeiiKa0d\">\n<div data-page-id=\"Nr8Td4HxhofjHZxftHTcXgbmnlg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnC8BvWbfGIyH7s6p86FTn2b\"><strong>【本期时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-LvI7dHkMKoHZOKxleQ9cuixlnmd\">2026年2月10日更新后 ~ 2026年3月10日 10:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-LvI7dHkMKoHZOKxleQ9cuixlnmd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-LvI7dHkMKoHZOKxleQ9cuixlnmd\">\n<div data-page-id=\"Nr8Td4HxhofjHZxftHTcXgbmnlg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnmiiuG0gZSTkLaDQKxJLXbd\"><strong>【本期奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnuD1D38SUB4IrLQK7NEjooc\"><strong>「密函：止流」「密函：万古的诀别」</strong>「委托密函线索」「养成材料」「魔之楔」「铜币」等。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnkCMn4d6WFv47fuIeDWXRUd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnSfiMzwiYzngB033PmXPnLe\"><strong>【限时奖励说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnFAGVoDoNVNznFJqgdMU0J8\"><span style=\"color: rgb(248, 153, 52);\"><strong>「密函：止流」「密函：万古的诀别」</strong></span>为本期限时奖励，本期结束后将替换为<span style=\"color: rgb(171, 100, 218);\"><strong>「密函：煜明」「密函：罪愆的逆鳞」</strong></span>。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnx07VecU7lv5SjDaLsjG3tf\"><span style=\"color: rgb(248, 153, 52);\"><strong>「密函：止流」</strong></span>可通过达成本期【热映剧目】与【不朽剧目】的星级获得。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn1OoWFGlPuf1gVwNYxRRxXf\"><span style=\"color: rgb(248, 153, 52);\"><strong>「密函：万古的诀别」</strong></span>可在本期【观剧纪念】商店中使用「剧目票根」兑换获得。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnNooSImtPeJdwqf4QkwygYf\">在本期【沉浸式戏剧】结束后，<span style=\"color: rgb(248, 153, 52);\"><strong>「密函：止流」「密函：万古的诀别」</strong></span>将替换加入【梦魇残声】每周挑战的挑战奖励中。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnZtpkHA5bSujqzE24V4dIYe\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn9r7ZeXs7t3ubZ2fgQLkzlf\"><strong>【玩法说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnSQ7xNW7mEHSweVczdtsDlh\">&bull; 沉浸式戏剧分为【经典剧目】、【热映剧目】与【不朽剧目】三部分。需完成前一剧目，才能解锁下一剧目。其中【热映剧目】和【不朽剧目】会随版本更新轮换，【不朽剧目】开放永续关卡，满足条件即可无限挑战。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWds6et9LH666InCtzhX8Ag\">&bull; 在限定时间内击败关卡内所有敌人即算完成挑战，在每个剧目下，伴随通关都将获得一定的星数和「票根」，狩月人可在奖励列表领取星数奖励，并在观剧纪念商店兑换心仪的物品。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnuEQTfSofxOWtiKgDfCvzKd\">&bull; 【经典剧目】与【热映剧目】包含【勇者征程】与【勇者归途】两轮战斗，需分别使用不同的角色配队出战，最终以两轮战斗获得的总星数结算奖励。不朽剧目仅有【勇者征程】一轮战斗。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnTCzCosK14W3Mm8xNQtsvu7\">&bull; 每轮战斗分为5个房间，需逐层推进。通关当前层【勇者征程】【勇者归途】两轮的全部房间后，才可解锁下一幕关卡。超时或未击败当前房间的目标，都将无法进入下一房间。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnVXBbM20BA0scnZBYmJvxid\">&bull; 所有关卡附带【舞台伴奏】效果，提供战斗中增益/减益Buff，需根据效果调整策略。</div>\n<div class=\"ace-line ace-line old-record-id-TeDGdeTjkodnG6xitTrcCUipnbd\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-ZH87dG5sfoR2K2xXXHTc8pIVnvc\"><strong>【不朽剧目关卡提前解锁说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-BZZkdWtANoDkXxxqS3VcK0cSnBc\">沉浸式戏剧新一期【不朽剧目】开启后，会根据之前一期【不朽剧目】的最高通关记录提前解锁特定的关卡。可直接挑战提前解锁的关卡，通关后视同通关全部前置关卡，并获得前置关卡的全部星数。</div>\n<div class=\"ace-line ace-line old-record-id-JZeIddSdXoNeBwxDvHAc5R53nUc\">目前提前解锁规则如下：</div>\n<div class=\"ace-line ace-line old-record-id-SPCrd3a9roVzc7xruIpc0MAZnbh\">1.之前一期【不朽剧目】最高通关记录为第9-11幕，新一期【不朽剧目】可提前解锁第6幕。</div>\n<div class=\"ace-line ace-line old-record-id-OHjndGhlmo3KORxPf2EcPhvsnod\">2.之前一期【不朽剧目】最高通关记录为第12幕及以上，新一期【不朽剧目】可提前解锁第9幕。</div>\n<div class=\"ace-line ace-line old-record-id-Vlt7dbaksor6YbxZ2xvc0fIbnSh\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-ETEIdk1m0oIKE8xfc9zc6ivJnsd\"><strong>【不朽剧场敌人元素属性选择说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-HLWNd6m8QoMdagxfE3dcfTe6njh\">在沉浸式戏剧【不朽剧目】中，可以自行选择怪物元素属性，每期可从2种元素属性中自选一种，</div>\n<div class=\"ace-line ace-line old-record-id-doxcnxYicQlQPu1Qkpn9fhmN41c\">敌方单位获得选定的元素属性，受到的<span style=\"color: rgb(248, 153, 52);\"><strong>克制</strong></span>属性伤害提高<span style=\"color: rgb(248, 153, 52);\"><strong>400%</strong></span>，<span style=\"color: rgb(218, 42, 74);\"><strong>非克制</strong></span>属性伤害降低<span style=\"color: rgb(218, 42, 74);\"><strong>50%</strong></span>。</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5piCDgpG8mI0wzxeiiKa0d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn5piCDgpG8mI0wzxeiiKa0d\">&nbsp;</div>\n</div>",
-                ["title1"] = "【沉浸式戏剧】参演热映剧目，领取止流委托",
-                ["title"] = "【沉浸式戏剧】参演热映剧目，领取止流委托",
-            },
-        },
-        ["Title"] = "【沉浸式戏剧】参演热映剧目，领取止流委托",
-        ["EndTimestamp"] = 1773028800,
-        ["ClientOnly"] = {
-            ["noticeType"] = "1,2",
-            ["UIStyle"] = "1",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 600,
-        },
-        ["StartTimestamp"] = 1770609600,
     },
 }
