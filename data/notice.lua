@@ -67,6 +67,30 @@ return {
         },
         ["StartTimestamp"] = 1764133324,
     },
+    ["69be424f652493760eb14eae"] = {
+        ["Title"] = "【清平愿】累计签到领取「华彩沙漏」*10",
+        ["EndTimestamp"] = 1775448000,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 1500,
+        },
+        ["StartTimestamp"] = 1773028800,
+        ["UniqueId"] = "69be424f652493760eb14eae",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【清平愿】累计签到领取「华彩沙漏」*10",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200-清平愿-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"Et2MdTfIPo0Ko8xo9Lhc1eh0nzh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnLUNUgSzHOURY8tNAli5pBc\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Iwuld5aproPbT7x4zLPc47qknoC\">2026年3月10日 10:00 ~ 2026年4月6日 17:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-Iwuld5aproPbT7x4zLPc47qknoC\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-Iwuld5aproPbT7x4zLPc47qknoC\">\n<div data-page-id=\"Et2MdTfIPo0Ko8xo9Lhc1eh0nzh\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcncSZd9iRC6UnSgp5NdZqn5f\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcniON0miSP0WV62AHLIVWxwf\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"ace-line ace-line old-record-id-doxcnxDAP2itzdLjQ7Y3rADy5ph\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnnF6DYqDmWNNTzFPIQP4Epe\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnnfd0tcz8FxPGM92fq4mcvc\">「华彩沙漏」*10</div>\n<div class=\"ace-line ace-line old-record-id-doxcnbHn6CF3XM3Np9BxUZC6EVc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnG7g6DtosnEXUjZDRfkpWNd\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnOaSgordNjKUJRKBSqwZQJh\">&bull; 活动开启期间，狩月人累计登录七天即可解锁全部奖励。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnEqSVmG0oRjYv5udcA22wEf\">&bull; 每日登录游戏，即可在活动界面领取当日奖励内容。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnlGAbWButyPVJ7r9VBP4MRB\">&bull; 当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。</div>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
+                ["language"] = "CN",
+                ["title"] = "【清平愿】累计签到领取「华彩沙漏」*10",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
     ["6989e6bf1786e23d83bb7c31"] = {
         ["UniqueId"] = "6989e6bf1786e23d83bb7c31",
         ["Channels"] = {
@@ -89,6 +113,30 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
+    ["69be460a652493760eb14eb4"] = {
+        ["Title"] = "【千枢百转】全新版本即将开启！",
+        ["EndTimestamp"] = 1775509199,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 2000,
+        },
+        ["StartTimestamp"] = 1775077199,
+        ["UniqueId"] = "69be460a652493760eb14eb4",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【千枢百转】全新版本即将开启！",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_千枢百转-CHS.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"OMKAdztqIoIwz1xgQlActXLhnHc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-IYaadzXdmoQUOxxTXcNccAbJnUc\">乙鸟衔春至，愿我心无羁。</div>\n<div class=\"ace-line ace-line old-record-id-CIC8dYmqwoYkxDxARtpc1RfZnig\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnm2GWmnFZ3HVf5ZnpSUKfbm\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-KaeMd7v2XouJrxx4HtCcVcIdnAc\">2026年4月2日 10:00 ~ 2026年4月14日 05:00（UTC+8）</div>\n</div>\n<div data-page-id=\"OMKAdztqIoIwz1xgQlActXLhnHc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnKE7jPB0QfMhVkzz7WkSvyc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnKE7jPB0QfMhVkzz7WkSvyc\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn6uxSkEwKgvyn2IjhuN6zaf\">完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能</div>\n<div class=\"ace-line ace-line old-record-id-doxcn73W942aJtJAbT8YGxfVvbb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnKMipYVvf57ViLrVkfFx4Ec\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnEguNGG5Efm6cCkUlkjIcyd\">「纯白沙漏」「委托密函线索」「深红凝珠」「皎皎之民的信物」「铜币」</div>\n<div class=\"ace-line ace-line old-record-id-doxcniz9dRQSMcM02KPo9HwGBsb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnWe2pcSNW1xteYK4jwF15Rh\"><strong>【活动说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Xky1dgml2ofppqxD9lOcCHucnpf\">活动期间签到5日领取赠礼</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "【千枢百转】全新版本即将开启！",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
     ["68fb629f29334956bbd24620"] = {
         ["UniqueId"] = "68fb629f29334956bbd24620",
         ["Channels"] = "",
@@ -110,6 +158,54 @@ return {
             ["notice_sort"] = 1,
         },
         ["StartTimestamp"] = 1761305239,
+    },
+    ["69be44cd652493760eb14eb2"] = {
+        ["Title"] = "【百变奇妙夜】活动说明",
+        ["EndTimestamp"] = 1775509199,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 1900,
+        },
+        ["StartTimestamp"] = 1774497600,
+        ["UniqueId"] = "69be44cd652493760eb14eb2",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【百变奇妙夜】活动说明",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_百变奇妙夜-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">一起稀里糊涂乱七八糟咕咕噜噜变变变！</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn48kSu7mqFQl7GFWepW5Qqq\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-ZWQTd3rvroUVq2xTfGMc957bn2c\">2026年3月27日 10:00 ~ 2026年4月14日 05:00（UTC+8）</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnXD6b0XwLycmYL5MMGpUQqc\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn8P2BWWTTJJKIz1e3KOKRQg\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcna4uYVs77slhHNFSXktttNf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnUCRsFTc6Eoe5SNxplWZ7Mf\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-FMHMdMVPjonNW2xURjKc1tNonJc\"><strong>角色</strong><strong>装饰</strong><strong>：</strong>「死鱗鱼」「银鳞鱼」「▇ ▇ ▇」&deg;。O○</div>\n<div class=\"ace-line ace-line old-record-id-doxcnW6sKJodyl3dpUmGpGB4Dyg\"><strong>资源奖励：</strong>「武器说明书&middot;四」「委托密函线索」「战斗旋律&middot;四」「深红凝珠」「铜币」「皎皎之民的信物」</div>\n<div class=\"ace-line ace-line old-record-id-doxcnmnYMnKA4wHzKWC7gH6fSmf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnyJg99yWUUgwC78YlwEoiKb\"><strong>【活动说明】</strong> 参与活动玩法，完成限时任务，可领取活动奖励。</div>\n<div class=\"ace-line ace-line old-record-id-MwETdwciLovssexzMGMcpPDinHd\">活动开启后，可以在活动界面领取活动专用限时道具「奇妙箱」。</div>\n<div class=\"ace-line ace-line old-record-id-NG3NdxohxoULlVxrByFcjUSSn8e\">在战术背包装备「奇妙箱」后，每次使用可以进行随机变身，已经解锁的变身形态，可以进行自选。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnMd2yXOmUpqAYUq7GvdJkbc\">在变身后，可以使用相机进行拍照，上传至照片墙，让其他狩月人猜一猜你在哪吧~</div>\n<div class=\"ace-line ace-line old-record-id-Honxd7WrBoSvvQxCMDQcnBI9nsf\">通过活动入口进入【奇思妙想】界面，查看其他狩月人上传的作品，找一找其他狩月人藏在照片里面的哪里。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "【百变奇妙夜】活动说明",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
+    ["69be4336652493760eb14eb0"] = {
+        ["Title"] = "【沉浸式戏剧】参演热映剧目，领取煜明委托",
+        ["EndTimestamp"] = 1775448000,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 1400,
+        },
+        ["StartTimestamp"] = 1773028800,
+        ["UniqueId"] = "69be4336652493760eb14eb0",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【沉浸式戏剧】参演热映剧目，领取煜明委托密函！",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_沉浸式戏剧-煜明-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"BddJdte9LonnFgx8QZgcWyP4nDd\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcndERofcg74ZxVCJxT5EwYUg\">沉浸式戏剧已开启，踏上舞台，演绎属于你的剧目。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn2j1U86H2fDg1v4aZ4sSyTe\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcn3pTeVRk5Ncfj9TiBwmhnZf\"><strong>【开启条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcnRpnn2YtHo8RcOADdc0YZZc\">完成泊暮篇剧情【审判日】与特殊支线任务【全新戏剧】。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnm2LkpKiYwgZGJoVCslNbVe\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnSGrdM96PW0zGIRFykhJwv9\"><strong>【本期时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-Z0TOdNoqAowSc7xva5Rc1Zynnod\">2026年3月10日 10:00 ~ 2026年4月7日 10:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-UgowdSJIjoJQ8XxQna4cPhfWnSd\">2026年3月10日 10:00 ~ 2026年4月7日 10:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-Yc27diSdDoCTdzxBaBfcPR0snut\">March 10, 2026, 10:00 &ndash; April 7, 2026, 10:00（UTC+8）</div>\n<div class=\"ace-line ace-line old-record-id-TpZ7dco1MoSkhTxeEX2cljQRnEf\">10 mars 2026, 3 h 00 &ndash; 7 avril 2026, 3 h 00（UTC+1）</div>\n<div class=\"ace-line ace-line old-record-id-NIJ5d1NMBo3iMrxyiVecmK71nCh\">2026年3月10日(火)11:00 ~ 2026年4月7日(火)11:00（JST）</div>\n<div class=\"ace-line ace-line old-record-id-MIVNdS3gAoH43dxLWZUcc66ZnSf\">2026년 3월 10일 11:00 ~ 2026년 4월 7일 11:00（KST）</div>\n<div class=\"ace-line ace-line old-record-id-doxcnGzPzfn2osiFPhhe5LEzU1e\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnrD64F8RwrvDspgkqPkiSqc\"><strong>【本期奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-SWLEd0bTToTnrXxeqVkcA678n0c\"><strong>「密函：煜明」「密函：罪愆的逆鳞」</strong>「委托密函线索」「养成材料」「魔之楔」「铜币」等。</div>\n<div class=\"ace-line ace-line old-record-id-XY7RdirPzohSemxEgrkcniVDnBg\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-MzXCdWp0roV8aexNgCOcTsPHnKg\"><strong>【限时奖励说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-QxUCd2WtMoMphAxzAtrcDDX4naB\"><strong>「密函：煜明」「密函：罪愆的逆鳞」</strong>为本期限时奖励，本期结束后替换为新角色/武器的委托密函。</div>\n<div class=\"ace-line ace-line old-record-id-Dq46dbozSoMBwqxa871cQyBinHe\"><strong>「密函：煜明」</strong>可通过达成本期【热映剧目】与【不朽剧目】的星级获得。</div>\n<div class=\"ace-line ace-line old-record-id-WgtxdRzwcomi6oxqd2Rc11tbngf\"><strong>「密函：罪愆的逆鳞」</strong>可在本期【观剧纪念】商店中使用「剧目票根」兑换获得。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnqvsaprzArlgErWeL6kjPBc\">在本期【沉浸式戏剧】结束后，<strong>「密函：煜明」「密函：罪愆的逆鳞」</strong>将替换加入【梦魇残声】每周挑战的挑战奖励中。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnRzJvEpf73sgCHsGNBNQPOc\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcniqUzSQvYF2lDkQcTNofHve\"><strong>【玩法说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcna7FYY83gj1b3fXW4NpcZGd\">&bull; 沉浸式戏剧分为【经典剧目】、【热映剧目】与【不朽剧目】三部分。需完成前一剧目，才能解锁下一剧目。其中【热映剧目】和【不朽剧目】会随版本更新轮换，【不朽剧目】开放永续关卡，满足条件即可无限挑战。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnFEr1P0XuCQqBbmzCIzjfbe\">&bull; 在限定时间内击败关卡内所有敌人即算完成挑战，在每个剧目下，伴随通关都将获得一定的星数和「票根」，狩月人可在奖励列表领取星数奖励，并在观剧纪念商店兑换心仪的物品。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnmN7xjo7p8er9F8KzhNlAlg\">&bull; 【经典剧目】与【热映剧目】包含【勇者征程】与【勇者归途】两轮战斗，需分别使用不同的角色配队出战，最终以两轮战斗获得的总星数结算奖励。不朽剧目仅有【勇者征程】一轮战斗。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnXuCVcQV3X594jVIpXRI3Mg\">&bull; 每轮战斗分为5个房间，需逐层推进。通关当前层【勇者征程】【勇者归途】两轮的全部房间后，才可解锁下一幕关卡。超时或未击败当前房间的目标，都将无法进入下一房间。</div>\n<div class=\"ace-line ace-line old-record-id-doxcn4kPBLB15kAtJIcsfX1qAKb\">&bull; 所有关卡附带【舞台伴奏】效果，提供战斗中增益/减益Buff，需根据效果调整策略。</div>\n<div class=\"ace-line ace-line old-record-id-AOTAdGQSios3gQxKMQjcba0bnld\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-YwCGdoDLSoUgRDxF86dc1h9fn3b\"><strong>【不朽剧目关卡提前解锁说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-M8DPdafZ0oXu3MxDF3rcMqP5nHd\">沉浸式戏剧新一期【不朽剧目】开启后，会根据之前一期【不朽剧目】的最高通关记录提前解锁特定的关卡。可直接挑战提前解锁的关卡，通关后视同通关全部前置关卡，并获得前置关卡的全部星数。</div>\n<div class=\"ace-line ace-line old-record-id-J4X6drHcRoOwXFxVzoQcBOqSnub\">目前提前解锁规则如下：</div>\n<div class=\"ace-line ace-line old-record-id-HiUadvgqAo3fEAxMgAVckQe2nJh\">1.之前一期【不朽剧目】最高通关记录为第9-11幕，新一期【不朽剧目】可提前解锁第6幕。</div>\n<div class=\"ace-line ace-line old-record-id-XmsfdeCCyo51JlxGUrVc6pIUnyf\">2.之前一期【不朽剧目】最高通关记录为第12幕及以上，新一期【不朽剧目】可提前解锁第9幕。</div>\n<div class=\"ace-line ace-line old-record-id-JFQMd1qJ7okYj9xdGkscDrgKnlb\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-SAGidpV4Mo47tqxZE1YczxfYnrb\"><strong>【不朽剧场敌人元素属性选择说明】</strong></div>\n<div class=\"ace-line ace-line old-record-id-VekodxDNHovJyMxDcDTcQi1enqd\">在沉浸式戏剧【不朽剧目】中，可以自行选择怪物元素属性，每期可从2种元素属性中自选一种，</div>\n<div class=\"ace-line ace-line old-record-id-NAbHdwTuKoKfnAx1WEdcWMlen0c\">敌方单位获得选定的元素属性，受到的<strong>克制</strong>属性伤害提高<strong>400%</strong>，<strong>非克制</strong>属性伤害降低<strong>50%</strong>。</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "【沉浸式戏剧】参演热映剧目，领取煜明委托密函！",
+            },
+        },
+        ["pakInfos"] = {
+        },
     },
     ["69baa7fe652493760eb14c08"] = {
         ["Title"] = "「大风歌·下」更新修复说明",
@@ -227,7 +323,7 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
-    ["Version"] = 629,
+    ["Version"] = 633,
     ["694138dbdc967019820482f0"] = {
         ["UniqueId"] = "694138dbdc967019820482f0",
         ["Channels"] = "",
