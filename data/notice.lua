@@ -137,6 +137,30 @@ return {
         ["pakInfos"] = {
         },
     },
+    ["69be44cd652493760eb14eb2"] = {
+        ["Title"] = "【百变奇妙夜】活动说明",
+        ["EndTimestamp"] = 1775509199,
+        ["ClientOnly"] = {
+            ["UIStyle"] = "1",
+            ["noticeType"] = "1,2",
+            ["TypeTag"] = "1",
+            ["notice_sort"] = 1900,
+        },
+        ["StartTimestamp"] = 1774497600,
+        ["UniqueId"] = "69be44cd652493760eb14eb2",
+        ["Channels"] = {
+        },
+        ["Content"] = {
+            [1] = {
+                ["title1"] = "【百变奇妙夜】活动说明",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_百变奇妙夜-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">一起稀里糊涂乱七八糟咕咕噜噜变变变！</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn48kSu7mqFQl7GFWepW5Qqq\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-ZWQTd3rvroUVq2xTfGMc957bn2c\">2026年3月27日 10:00 ~ 2026年4月14日 05:00（UTC+8）</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnXD6b0XwLycmYL5MMGpUQqc\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn8P2BWWTTJJKIz1e3KOKRQg\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcna4uYVs77slhHNFSXktttNf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnUCRsFTc6Eoe5SNxplWZ7Mf\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-FMHMdMVPjonNW2xURjKc1tNonJc\"><strong>角色</strong><strong>装饰</strong><strong>：</strong>「死鱗鱼」「银鳞鱼」「▇ ▇ ▇」&deg;。O○</div>\n<div class=\"ace-line ace-line old-record-id-doxcnW6sKJodyl3dpUmGpGB4Dyg\"><strong>资源奖励：</strong>「武器说明书&middot;四」「委托密函线索」「战斗旋律&middot;四」「深红凝珠」「铜币」「皎皎之民的信物」</div>\n<div class=\"ace-line ace-line old-record-id-doxcnmnYMnKA4wHzKWC7gH6fSmf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnyJg99yWUUgwC78YlwEoiKb\"><strong>【活动说明】</strong> 参与活动玩法，完成限时任务，可领取活动奖励。</div>\n<div class=\"ace-line ace-line old-record-id-MwETdwciLovssexzMGMcpPDinHd\">活动开启后，可以在活动界面领取活动专用限时道具「奇妙箱」。</div>\n<div class=\"ace-line ace-line old-record-id-NG3NdxohxoULlVxrByFcjUSSn8e\">在战术背包装备「奇妙箱」后，每次使用可以进行随机变身，已经解锁的变身形态，可以进行自选。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnMd2yXOmUpqAYUq7GvdJkbc\">在变身后，可以使用相机进行拍照，上传至照片墙，让其他狩月人猜一猜你在哪吧~</div>\n<div class=\"ace-line ace-line old-record-id-Honxd7WrBoSvvQxCMDQcnBI9nsf\">通过活动入口进入【奇思妙想】界面，查看其他狩月人上传的作品，找一找其他狩月人藏在照片里面的哪里。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n</div>",
+                ["language"] = "CN",
+                ["title"] = "【百变奇妙夜】活动说明",
+            },
+        },
+        ["pakInfos"] = {
+        },
+    },
     ["68fb629f29334956bbd24620"] = {
         ["UniqueId"] = "68fb629f29334956bbd24620",
         ["Channels"] = "",
@@ -159,25 +183,25 @@ return {
         },
         ["StartTimestamp"] = 1761305239,
     },
-    ["69be44cd652493760eb14eb2"] = {
-        ["Title"] = "【百变奇妙夜】活动说明",
-        ["EndTimestamp"] = 1775509199,
+    ["69c4ffd6a333855684fd392a"] = {
+        ["Title"] = "皎皎简报|VOL.6",
+        ["EndTimestamp"] = 1775145599,
         ["ClientOnly"] = {
             ["UIStyle"] = "1",
             ["noticeType"] = "1,2",
-            ["TypeTag"] = "1",
-            ["notice_sort"] = 1900,
+            ["TypeTag"] = "3",
+            ["notice_sort"] = 99999,
         },
-        ["StartTimestamp"] = 1774497600,
-        ["UniqueId"] = "69be44cd652493760eb14eb2",
+        ["StartTimestamp"] = 1774578600,
+        ["UniqueId"] = "69c4ffd6a333855684fd392a",
         ["Channels"] = {
         },
         ["Content"] = {
             [1] = {
-                ["title1"] = "【百变奇妙夜】活动说明",
-                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/728x200_百变奇妙夜-简中.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">一起稀里糊涂乱七八糟咕咕噜噜变变变！</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcn48kSu7mqFQl7GFWepW5Qqq\"><strong>【活动时间】</strong></div>\n<div class=\"ace-line ace-line old-record-id-ZWQTd3rvroUVq2xTfGMc957bn2c\">2026年3月27日 10:00 ~ 2026年4月14日 05:00（UTC+8）</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">\n<div data-page-id=\"IWxIdDmQso6Ycux2dqBcxay5nLf\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<div class=\"ace-line ace-line old-record-id-doxcnXD6b0XwLycmYL5MMGpUQqc\"><strong>【开放条件】</strong></div>\n<div class=\"ace-line ace-line old-record-id-doxcn8P2BWWTTJJKIz1e3KOKRQg\">完成夜航篇第一章剧情【前往少女所说的宅邸】并开启【活动】功能。</div>\n<div class=\"ace-line ace-line old-record-id-doxcna4uYVs77slhHNFSXktttNf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnUCRsFTc6Eoe5SNxplWZ7Mf\"><strong>【奖励内容】</strong></div>\n<div class=\"ace-line ace-line old-record-id-FMHMdMVPjonNW2xURjKc1tNonJc\"><strong>角色</strong><strong>装饰</strong><strong>：</strong>「死鱗鱼」「银鳞鱼」「▇ ▇ ▇」&deg;。O○</div>\n<div class=\"ace-line ace-line old-record-id-doxcnW6sKJodyl3dpUmGpGB4Dyg\"><strong>资源奖励：</strong>「武器说明书&middot;四」「委托密函线索」「战斗旋律&middot;四」「深红凝珠」「铜币」「皎皎之民的信物」</div>\n<div class=\"ace-line ace-line old-record-id-doxcnmnYMnKA4wHzKWC7gH6fSmf\">&nbsp;</div>\n<div class=\"ace-line ace-line old-record-id-doxcnyJg99yWUUgwC78YlwEoiKb\"><strong>【活动说明】</strong> 参与活动玩法，完成限时任务，可领取活动奖励。</div>\n<div class=\"ace-line ace-line old-record-id-MwETdwciLovssexzMGMcpPDinHd\">活动开启后，可以在活动界面领取活动专用限时道具「奇妙箱」。</div>\n<div class=\"ace-line ace-line old-record-id-NG3NdxohxoULlVxrByFcjUSSn8e\">在战术背包装备「奇妙箱」后，每次使用可以进行随机变身，已经解锁的变身形态，可以进行自选。</div>\n<div class=\"ace-line ace-line old-record-id-doxcnMd2yXOmUpqAYUq7GvdJkbc\">在变身后，可以使用相机进行拍照，上传至照片墙，让其他狩月人猜一猜你在哪吧~</div>\n<div class=\"ace-line ace-line old-record-id-Honxd7WrBoSvvQxCMDQcnBI9nsf\">通过活动入口进入【奇思妙想】界面，查看其他狩月人上传的作品，找一找其他狩月人藏在照片里面的哪里。</div>\n</div>\n</div>\n<div class=\"ace-line ace-line old-record-id-GatCdYO2ro6LhYx3tTHcbgACn7d\">&nbsp;</div>\n</div>",
+                ["title1"] = "皎皎简报|VOL.6",
+                ["body"] = "<p><img src=\"http://pan01-cdn-dna-ali.shyxhy.com/upload/20251103皎皎简报纯字-728X200.jpg\" alt=\"\" width=\"728\" height=\"200\"></p>\n<p>亲爱的狩月人：</p>\n<p>大家上午好。<br>持续数月的《大风歌》版本即将迎来尾声，所有活动内容均已悉数呈现，感谢狩月人的支持和游玩！<br>在版本的结尾，我们诚邀您填写一份关于《大风歌》的版本调研问卷。问卷稍后将以游戏内邮件形式送达，内容照例包含剧情、优化、商业化及版本活动等多个方面。希望狩月人能抽空填写，分享真实的游玩体验。</p>\n<p>下面想和大家聊聊今晚的《皓苍诀》前瞻直播，以及即将到来的版本更新内容。<br>在《皎皎简报|VOL.5》中我们曾预告过，《皓苍诀》版本将延续此前的冒险旅程，展开新的故事篇章。随着新篇章的展开，一张全新的地图也将同步开放&mdash;&mdash;更丰富的场景细节、密度更高的建筑群落&hellip;&hellip;关于华胥的更多故事，都等待着大家前来探索。</p>\n<p>除了新的剧情和场景，《皓苍诀》版本还将带来：全新角色、全新时装、新玩法内容、部分开服角色的加强，以及更多新增内容与功能优化，我们都将在今晚的前瞻直播及后续官方公告中，为大家详细呈现。</p>\n<p>直播间里还给大家准备了游戏内兑换码等福利活动，欢迎狩月人们来直播间和我们一起看看新版本的内容。</p>\n<p>《皓苍诀》作为华胥大型资料片的最后一章，我们希望能为狩月人带来一段难忘的体验。当然，在打磨好当下新版本的同时，我们对未来内容的规划和制作也一刻不曾停歇。<br>目前，以下内容正在紧锣密鼓地研发中，在6月份以及后续的新版本（《皓苍诀》之后的版本）中将和大家见面：<br>● 芙罗拉等人气角色将随版本逐步登场<br>● 全新主线剧情更新<br>● 常驻系统与活动玩法更新<br>● 全新风格地图，焕新场景风貌<br>● 全新武器养成系统，更加丰富的玩法构筑<br>&hellip;&hellip;</p>\n<p>从《大风歌》到《皓苍诀》，丰富的版本内容和良好的游戏体验，是我们长久以来始终不变的目标。接下来，我们也会继续认真打磨每一个版本，不辜负大家的每一份期待。再次感谢大家的支持！</p>\n<p>附赠内容：密函线索*50、委托手册&middot;二*3、委托手册&middot;三*2<br>发放时间：2026年3月27日10:30（UTC+8）<br>领取条件：解锁【邮件】功能，邮件领取有效时间至2026年4月2日23:59（UTC+8）</p>\n<p>《二重螺旋》运营团队</p>",
                 ["language"] = "CN",
-                ["title"] = "【百变奇妙夜】活动说明",
+                ["title"] = "皎皎简报|VOL.6",
             },
         },
         ["pakInfos"] = {
@@ -323,7 +347,7 @@ return {
         },
         ["StartTimestamp"] = 1770609600,
     },
-    ["Version"] = 633,
+    ["Version"] = 634,
     ["694138dbdc967019820482f0"] = {
         ["UniqueId"] = "694138dbdc967019820482f0",
         ["Channels"] = "",
